@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/SocialGouv/codes-naf/compare/v1.0.1...v1.0.2) (2021-04-09)
+
+
+### Bug Fixes
+
+* release ([cec58f9](https://github.com/SocialGouv/codes-naf/commit/cec58f969c05a173fc7b363516a997a6f49d44f2))
+
 ## [1.0.1](https://github.com/SocialGouv/codes-naf/compare/v1.0.0...v1.0.1) (2021-04-09)
 
 
