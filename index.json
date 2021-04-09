@@ -1,2462 +1,2462 @@
 [
   {
-    "Code": "01.11",
-    "Libellé": "Culture de céréales (à l'exception du riz), de légumineuses et de graines oléagineuses"
+    "id": "01.11",
+    "label": "Culture de céréales (à l'exception du riz), de légumineuses et de graines oléagineuses"
   },
   {
-    "Code": "01.12",
-    "Libellé": "Culture du riz"
+    "id": "01.12",
+    "label": "Culture du riz"
   },
   {
-    "Code": "01.13",
-    "Libellé": "Culture de légumes, de melons, de racines et de tubercules"
+    "id": "01.13",
+    "label": "Culture de légumes, de melons, de racines et de tubercules"
   },
   {
-    "Code": "01.14",
-    "Libellé": "Culture de la canne à sucre"
+    "id": "01.14",
+    "label": "Culture de la canne à sucre"
   },
   {
-    "Code": "01.15",
-    "Libellé": "Culture du tabac"
+    "id": "01.15",
+    "label": "Culture du tabac"
   },
   {
-    "Code": "01.16",
-    "Libellé": "Culture de plantes à fibres"
+    "id": "01.16",
+    "label": "Culture de plantes à fibres"
   },
   {
-    "Code": "01.19",
-    "Libellé": "Autres cultures non permanentes"
+    "id": "01.19",
+    "label": "Autres cultures non permanentes"
   },
   {
-    "Code": "01.21",
-    "Libellé": "Culture de la vigne"
+    "id": "01.21",
+    "label": "Culture de la vigne"
   },
   {
-    "Code": "01.22",
-    "Libellé": "Culture de fruits tropicaux et subtropicaux"
+    "id": "01.22",
+    "label": "Culture de fruits tropicaux et subtropicaux"
   },
   {
-    "Code": "01.23",
-    "Libellé": "Culture d'agrumes"
+    "id": "01.23",
+    "label": "Culture d'agrumes"
   },
   {
-    "Code": "01.24",
-    "Libellé": "Culture de fruits à pépins et à noyau"
+    "id": "01.24",
+    "label": "Culture de fruits à pépins et à noyau"
   },
   {
-    "Code": "01.25",
-    "Libellé": "Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque"
+    "id": "01.25",
+    "label": "Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque"
   },
   {
-    "Code": "01.26",
-    "Libellé": "Culture de fruits oléagineux"
+    "id": "01.26",
+    "label": "Culture de fruits oléagineux"
   },
   {
-    "Code": "01.27",
-    "Libellé": "Culture de plantes à boissons"
+    "id": "01.27",
+    "label": "Culture de plantes à boissons"
   },
   {
-    "Code": "01.28",
-    "Libellé": "Culture de plantes à épices, aromatiques, médicinales et pharmaceutiques"
+    "id": "01.28",
+    "label": "Culture de plantes à épices, aromatiques, médicinales et pharmaceutiques"
   },
   {
-    "Code": "01.29",
-    "Libellé": "Autres cultures permanentes"
+    "id": "01.29",
+    "label": "Autres cultures permanentes"
   },
   {
-    "Code": "01.30",
-    "Libellé": "Reproduction de plantes"
+    "id": "01.30",
+    "label": "Reproduction de plantes"
   },
   {
-    "Code": "01.41",
-    "Libellé": "Élevage de vaches laitières"
+    "id": "01.41",
+    "label": "Élevage de vaches laitières"
   },
   {
-    "Code": "01.42",
-    "Libellé": "Élevage d'autres bovins et de buffles"
+    "id": "01.42",
+    "label": "Élevage d'autres bovins et de buffles"
   },
   {
-    "Code": "01.43",
-    "Libellé": "Élevage de chevaux et d'autres équidés"
+    "id": "01.43",
+    "label": "Élevage de chevaux et d'autres équidés"
   },
   {
-    "Code": "01.44",
-    "Libellé": "Élevage de chameaux et d'autres camélidés"
+    "id": "01.44",
+    "label": "Élevage de chameaux et d'autres camélidés"
   },
   {
-    "Code": "01.45",
-    "Libellé": "Élevage d'ovins et de caprins"
+    "id": "01.45",
+    "label": "Élevage d'ovins et de caprins"
   },
   {
-    "Code": "01.46",
-    "Libellé": "Élevage de porcins"
+    "id": "01.46",
+    "label": "Élevage de porcins"
   },
   {
-    "Code": "01.47",
-    "Libellé": "Élevage de volailles"
+    "id": "01.47",
+    "label": "Élevage de volailles"
   },
   {
-    "Code": "01.49",
-    "Libellé": "Élevage d'autres animaux"
+    "id": "01.49",
+    "label": "Élevage d'autres animaux"
   },
   {
-    "Code": "01.50",
-    "Libellé": "Culture et élevage associés"
+    "id": "01.50",
+    "label": "Culture et élevage associés"
   },
   {
-    "Code": "01.61",
-    "Libellé": "Activités de soutien aux cultures"
+    "id": "01.61",
+    "label": "Activités de soutien aux cultures"
   },
   {
-    "Code": "01.62",
-    "Libellé": "Activités de soutien à la production animale"
+    "id": "01.62",
+    "label": "Activités de soutien à la production animale"
   },
   {
-    "Code": "01.63",
-    "Libellé": "Traitement primaire des récoltes"
+    "id": "01.63",
+    "label": "Traitement primaire des récoltes"
   },
   {
-    "Code": "01.64",
-    "Libellé": "Traitement des semences"
+    "id": "01.64",
+    "label": "Traitement des semences"
   },
   {
-    "Code": "01.70",
-    "Libellé": "Chasse, piégeage et services annexes"
+    "id": "01.70",
+    "label": "Chasse, piégeage et services annexes"
   },
   {
-    "Code": "02.10",
-    "Libellé": "Sylviculture et autres activités forestières"
+    "id": "02.10",
+    "label": "Sylviculture et autres activités forestières"
   },
   {
-    "Code": "02.20",
-    "Libellé": "Exploitation forestière"
+    "id": "02.20",
+    "label": "Exploitation forestière"
   },
   {
-    "Code": "02.30",
-    "Libellé": "Récolte de produits forestiers non ligneux poussant à l'état sauvage"
+    "id": "02.30",
+    "label": "Récolte de produits forestiers non ligneux poussant à l'état sauvage"
   },
   {
-    "Code": "02.40",
-    "Libellé": "Services de soutien à l'exploitation forestière"
+    "id": "02.40",
+    "label": "Services de soutien à l'exploitation forestière"
   },
   {
-    "Code": "03.11",
-    "Libellé": "Pêche en mer"
+    "id": "03.11",
+    "label": "Pêche en mer"
   },
   {
-    "Code": "03.12",
-    "Libellé": "Pêche en eau douce"
+    "id": "03.12",
+    "label": "Pêche en eau douce"
   },
   {
-    "Code": "03.21",
-    "Libellé": "Aquaculture en mer"
+    "id": "03.21",
+    "label": "Aquaculture en mer"
   },
   {
-    "Code": "03.22",
-    "Libellé": "Aquaculture en eau douce"
+    "id": "03.22",
+    "label": "Aquaculture en eau douce"
   },
   {
-    "Code": "05.10",
-    "Libellé": "Extraction de houille"
+    "id": "05.10",
+    "label": "Extraction de houille"
   },
   {
-    "Code": "05.20",
-    "Libellé": "Extraction de lignite"
+    "id": "05.20",
+    "label": "Extraction de lignite"
   },
   {
-    "Code": "06.10",
-    "Libellé": "Extraction de pétrole brut"
+    "id": "06.10",
+    "label": "Extraction de pétrole brut"
   },
   {
-    "Code": "06.20",
-    "Libellé": "Extraction de gaz naturel"
+    "id": "06.20",
+    "label": "Extraction de gaz naturel"
   },
   {
-    "Code": "07.10",
-    "Libellé": "Extraction de minerais de fer"
+    "id": "07.10",
+    "label": "Extraction de minerais de fer"
   },
   {
-    "Code": "07.21",
-    "Libellé": "Extraction de minerais d'uranium et de thorium"
+    "id": "07.21",
+    "label": "Extraction de minerais d'uranium et de thorium"
   },
   {
-    "Code": "07.29",
-    "Libellé": "Extraction d'autres minerais de métaux non ferreux"
+    "id": "07.29",
+    "label": "Extraction d'autres minerais de métaux non ferreux"
   },
   {
-    "Code": "08.11",
-    "Libellé": "Extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d'ardoise"
+    "id": "08.11",
+    "label": "Extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d'ardoise"
   },
   {
-    "Code": "08.12",
-    "Libellé": "Exploitation de gravières et sablières, extraction d'argiles et de kaolin"
+    "id": "08.12",
+    "label": "Exploitation de gravières et sablières, extraction d'argiles et de kaolin"
   },
   {
-    "Code": "08.91",
-    "Libellé": "Extraction des minéraux chimiques et d'engrais minéraux"
+    "id": "08.91",
+    "label": "Extraction des minéraux chimiques et d'engrais minéraux"
   },
   {
-    "Code": "08.92",
-    "Libellé": "Extraction de tourbe"
+    "id": "08.92",
+    "label": "Extraction de tourbe"
   },
   {
-    "Code": "08.93",
-    "Libellé": "Production de sel"
+    "id": "08.93",
+    "label": "Production de sel"
   },
   {
-    "Code": "08.99",
-    "Libellé": "Autres activités extractives n.c.a."
+    "id": "08.99",
+    "label": "Autres activités extractives n.c.a."
   },
   {
-    "Code": "09.10",
-    "Libellé": "Activités de soutien à l'extraction d'hydrocarbures"
+    "id": "09.10",
+    "label": "Activités de soutien à l'extraction d'hydrocarbures"
   },
   {
-    "Code": "09.90",
-    "Libellé": "Activités de soutien aux autres industries extractives"
+    "id": "09.90",
+    "label": "Activités de soutien aux autres industries extractives"
   },
   {
-    "Code": "10.11",
-    "Libellé": "Transformation et conservation de la viande de boucherie"
+    "id": "10.11",
+    "label": "Transformation et conservation de la viande de boucherie"
   },
   {
-    "Code": "10.12",
-    "Libellé": "Transformation et conservation de la viande de volaille"
+    "id": "10.12",
+    "label": "Transformation et conservation de la viande de volaille"
   },
   {
-    "Code": "10.13",
-    "Libellé": "Préparation de produits à base de viande"
+    "id": "10.13",
+    "label": "Préparation de produits à base de viande"
   },
   {
-    "Code": "10.20",
-    "Libellé": "Transformation et conservation de poisson, de crustacés et de mollusques"
+    "id": "10.20",
+    "label": "Transformation et conservation de poisson, de crustacés et de mollusques"
   },
   {
-    "Code": "10.31",
-    "Libellé": "Transformation et conservation de pommes de terre"
+    "id": "10.31",
+    "label": "Transformation et conservation de pommes de terre"
   },
   {
-    "Code": "10.32",
-    "Libellé": "Préparation de jus de fruits et légumes"
+    "id": "10.32",
+    "label": "Préparation de jus de fruits et légumes"
   },
   {
-    "Code": "10.39",
-    "Libellé": "Autre transformation et conservation de fruits et légumes"
+    "id": "10.39",
+    "label": "Autre transformation et conservation de fruits et légumes"
   },
   {
-    "Code": "10.41",
-    "Libellé": "Fabrication d'huiles et graisses"
+    "id": "10.41",
+    "label": "Fabrication d'huiles et graisses"
   },
   {
-    "Code": "10.42",
-    "Libellé": "Fabrication de margarine et graisses comestibles similaires"
+    "id": "10.42",
+    "label": "Fabrication de margarine et graisses comestibles similaires"
   },
   {
-    "Code": "10.51",
-    "Libellé": "Exploitation de laiteries et fabrication de fromage"
+    "id": "10.51",
+    "label": "Exploitation de laiteries et fabrication de fromage"
   },
   {
-    "Code": "10.52",
-    "Libellé": "Fabrication de glaces et sorbets"
+    "id": "10.52",
+    "label": "Fabrication de glaces et sorbets"
   },
   {
-    "Code": "10.61",
-    "Libellé": "Travail des grains"
+    "id": "10.61",
+    "label": "Travail des grains"
   },
   {
-    "Code": "10.62",
-    "Libellé": "Fabrication de produits amylacés"
+    "id": "10.62",
+    "label": "Fabrication de produits amylacés"
   },
   {
-    "Code": "10.71",
-    "Libellé": "Fabrication de pain et de pâtisserie fraîche"
+    "id": "10.71",
+    "label": "Fabrication de pain et de pâtisserie fraîche"
   },
   {
-    "Code": "10.72",
-    "Libellé": "Fabrication de biscuits, biscottes et pâtisseries de conservation"
+    "id": "10.72",
+    "label": "Fabrication de biscuits, biscottes et pâtisseries de conservation"
   },
   {
-    "Code": "10.73",
-    "Libellé": "Fabrication de pâtes alimentaires"
+    "id": "10.73",
+    "label": "Fabrication de pâtes alimentaires"
   },
   {
-    "Code": "10.81",
-    "Libellé": "Fabrication de sucre"
+    "id": "10.81",
+    "label": "Fabrication de sucre"
   },
   {
-    "Code": "10.82",
-    "Libellé": "Fabrication de cacao, chocolat et de produits de confiserie"
+    "id": "10.82",
+    "label": "Fabrication de cacao, chocolat et de produits de confiserie"
   },
   {
-    "Code": "10.83",
-    "Libellé": "Transformation du thé et du café"
+    "id": "10.83",
+    "label": "Transformation du thé et du café"
   },
   {
-    "Code": "10.84",
-    "Libellé": "Fabrication de condiments et assaisonnements"
+    "id": "10.84",
+    "label": "Fabrication de condiments et assaisonnements"
   },
   {
-    "Code": "10.85",
-    "Libellé": "Fabrication de plats préparés"
+    "id": "10.85",
+    "label": "Fabrication de plats préparés"
   },
   {
-    "Code": "10.86",
-    "Libellé": "Fabrication d'aliments homogénéisés et diététiques"
+    "id": "10.86",
+    "label": "Fabrication d'aliments homogénéisés et diététiques"
   },
   {
-    "Code": "10.89",
-    "Libellé": "Fabrication d'autres produits alimentaires n.c.a."
+    "id": "10.89",
+    "label": "Fabrication d'autres produits alimentaires n.c.a."
   },
   {
-    "Code": "10.91",
-    "Libellé": "Fabrication d'aliments pour animaux de ferme"
+    "id": "10.91",
+    "label": "Fabrication d'aliments pour animaux de ferme"
   },
   {
-    "Code": "10.92",
-    "Libellé": "Fabrication d'aliments pour animaux de compagnie"
+    "id": "10.92",
+    "label": "Fabrication d'aliments pour animaux de compagnie"
   },
   {
-    "Code": "11.01",
-    "Libellé": "Production de boissons alcooliques distillées"
+    "id": "11.01",
+    "label": "Production de boissons alcooliques distillées"
   },
   {
-    "Code": "11.02",
-    "Libellé": "Production de vin (de raisin)"
+    "id": "11.02",
+    "label": "Production de vin (de raisin)"
   },
   {
-    "Code": "11.03",
-    "Libellé": "Fabrication de cidre et de vins de fruits"
+    "id": "11.03",
+    "label": "Fabrication de cidre et de vins de fruits"
   },
   {
-    "Code": "11.04",
-    "Libellé": "Production d'autres boissons fermentées non distillées"
+    "id": "11.04",
+    "label": "Production d'autres boissons fermentées non distillées"
   },
   {
-    "Code": "11.05",
-    "Libellé": "Fabrication de bière"
+    "id": "11.05",
+    "label": "Fabrication de bière"
   },
   {
-    "Code": "11.06",
-    "Libellé": "Fabrication de malt"
+    "id": "11.06",
+    "label": "Fabrication de malt"
   },
   {
-    "Code": "11.07",
-    "Libellé": "Industrie des eaux minérales et autres eaux embouteillées et des boissons rafraîchissantes"
+    "id": "11.07",
+    "label": "Industrie des eaux minérales et autres eaux embouteillées et des boissons rafraîchissantes"
   },
   {
-    "Code": "12.00",
-    "Libellé": "Fabrication de produits à base de tabac"
+    "id": "12.00",
+    "label": "Fabrication de produits à base de tabac"
   },
   {
-    "Code": "13.10",
-    "Libellé": "Préparation de fibres textiles et filature"
+    "id": "13.10",
+    "label": "Préparation de fibres textiles et filature"
   },
   {
-    "Code": "13.20",
-    "Libellé": "Tissage"
+    "id": "13.20",
+    "label": "Tissage"
   },
   {
-    "Code": "13.30",
-    "Libellé": "Ennoblissement textile"
+    "id": "13.30",
+    "label": "Ennoblissement textile"
   },
   {
-    "Code": "13.91",
-    "Libellé": "Fabrication d'étoffes à mailles"
+    "id": "13.91",
+    "label": "Fabrication d'étoffes à mailles"
   },
   {
-    "Code": "13.92",
-    "Libellé": "Fabrication d'articles textiles, sauf habillement"
+    "id": "13.92",
+    "label": "Fabrication d'articles textiles, sauf habillement"
   },
   {
-    "Code": "13.93",
-    "Libellé": "Fabrication de tapis et moquettes"
+    "id": "13.93",
+    "label": "Fabrication de tapis et moquettes"
   },
   {
-    "Code": "13.94",
-    "Libellé": "Fabrication de ficelles, cordes et filets"
+    "id": "13.94",
+    "label": "Fabrication de ficelles, cordes et filets"
   },
   {
-    "Code": "13.95",
-    "Libellé": "Fabrication de non-tissés, sauf habillement"
+    "id": "13.95",
+    "label": "Fabrication de non-tissés, sauf habillement"
   },
   {
-    "Code": "13.96",
-    "Libellé": "Fabrication d'autres textiles techniques et industriels"
+    "id": "13.96",
+    "label": "Fabrication d'autres textiles techniques et industriels"
   },
   {
-    "Code": "13.99",
-    "Libellé": "Fabrication d'autres textiles n.c.a."
+    "id": "13.99",
+    "label": "Fabrication d'autres textiles n.c.a."
   },
   {
-    "Code": "14.11",
-    "Libellé": "Fabrication de vêtements en cuir"
+    "id": "14.11",
+    "label": "Fabrication de vêtements en cuir"
   },
   {
-    "Code": "14.12",
-    "Libellé": "Fabrication de vêtements de travail"
+    "id": "14.12",
+    "label": "Fabrication de vêtements de travail"
   },
   {
-    "Code": "14.13",
-    "Libellé": "Fabrication de vêtements de dessus"
+    "id": "14.13",
+    "label": "Fabrication de vêtements de dessus"
   },
   {
-    "Code": "14.14",
-    "Libellé": "Fabrication de vêtements de dessous"
+    "id": "14.14",
+    "label": "Fabrication de vêtements de dessous"
   },
   {
-    "Code": "14.19",
-    "Libellé": "Fabrication d'autres vêtements et accessoires"
+    "id": "14.19",
+    "label": "Fabrication d'autres vêtements et accessoires"
   },
   {
-    "Code": "14.20",
-    "Libellé": "Fabrication d'articles en fourrure"
+    "id": "14.20",
+    "label": "Fabrication d'articles en fourrure"
   },
   {
-    "Code": "14.31",
-    "Libellé": "Fabrication d'articles chaussants à mailles"
+    "id": "14.31",
+    "label": "Fabrication d'articles chaussants à mailles"
   },
   {
-    "Code": "14.39",
-    "Libellé": "Fabrication d'autres articles à mailles"
+    "id": "14.39",
+    "label": "Fabrication d'autres articles à mailles"
   },
   {
-    "Code": "15.11",
-    "Libellé": "Apprêt et tannage des cuirs ; préparation et teinture des fourrures"
+    "id": "15.11",
+    "label": "Apprêt et tannage des cuirs ; préparation et teinture des fourrures"
   },
   {
-    "Code": "15.12",
-    "Libellé": "Fabrication d'articles de voyage, de maroquinerie et de sellerie"
+    "id": "15.12",
+    "label": "Fabrication d'articles de voyage, de maroquinerie et de sellerie"
   },
   {
-    "Code": "15.20",
-    "Libellé": "Fabrication de chaussures"
+    "id": "15.20",
+    "label": "Fabrication de chaussures"
   },
   {
-    "Code": "16.10",
-    "Libellé": "Sciage et rabotage du bois"
+    "id": "16.10",
+    "label": "Sciage et rabotage du bois"
   },
   {
-    "Code": "16.21",
-    "Libellé": "Fabrication de placage et de panneaux de bois"
+    "id": "16.21",
+    "label": "Fabrication de placage et de panneaux de bois"
   },
   {
-    "Code": "16.22",
-    "Libellé": "Fabrication de parquets assemblés"
+    "id": "16.22",
+    "label": "Fabrication de parquets assemblés"
   },
   {
-    "Code": "16.23",
-    "Libellé": "Fabrication de charpentes et d'autres menuiseries"
+    "id": "16.23",
+    "label": "Fabrication de charpentes et d'autres menuiseries"
   },
   {
-    "Code": "16.24",
-    "Libellé": "Fabrication d'emballages en bois"
+    "id": "16.24",
+    "label": "Fabrication d'emballages en bois"
   },
   {
-    "Code": "16.29",
-    "Libellé": "Fabrication d'objets divers en bois ; fabrication d'objets en liège, vannerie et sparterie"
+    "id": "16.29",
+    "label": "Fabrication d'objets divers en bois ; fabrication d'objets en liège, vannerie et sparterie"
   },
   {
-    "Code": "17.11",
-    "Libellé": "Fabrication de pâte à papier"
+    "id": "17.11",
+    "label": "Fabrication de pâte à papier"
   },
   {
-    "Code": "17.12",
-    "Libellé": "Fabrication de papier et de carton"
+    "id": "17.12",
+    "label": "Fabrication de papier et de carton"
   },
   {
-    "Code": "17.21",
-    "Libellé": "Fabrication de papier et carton ondulés et d'emballages en papier ou en carton"
+    "id": "17.21",
+    "label": "Fabrication de papier et carton ondulés et d'emballages en papier ou en carton"
   },
   {
-    "Code": "17.22",
-    "Libellé": "Fabrication d'articles en papier à usage sanitaire ou domestique"
+    "id": "17.22",
+    "label": "Fabrication d'articles en papier à usage sanitaire ou domestique"
   },
   {
-    "Code": "17.23",
-    "Libellé": "Fabrication d'articles de papeterie"
+    "id": "17.23",
+    "label": "Fabrication d'articles de papeterie"
   },
   {
-    "Code": "17.24",
-    "Libellé": "Fabrication de papiers peints"
+    "id": "17.24",
+    "label": "Fabrication de papiers peints"
   },
   {
-    "Code": "17.29",
-    "Libellé": "Fabrication d'autres articles en papier ou en carton"
+    "id": "17.29",
+    "label": "Fabrication d'autres articles en papier ou en carton"
   },
   {
-    "Code": "18.11",
-    "Libellé": "Imprimerie de journaux"
+    "id": "18.11",
+    "label": "Imprimerie de journaux"
   },
   {
-    "Code": "18.12",
-    "Libellé": "Autre imprimerie (labeur)"
+    "id": "18.12",
+    "label": "Autre imprimerie (labeur)"
   },
   {
-    "Code": "18.13",
-    "Libellé": "Activités de pré-presse"
+    "id": "18.13",
+    "label": "Activités de pré-presse"
   },
   {
-    "Code": "18.14",
-    "Libellé": "Reliure et activités connexes"
+    "id": "18.14",
+    "label": "Reliure et activités connexes"
   },
   {
-    "Code": "18.20",
-    "Libellé": "Reproduction d'enregistrements"
+    "id": "18.20",
+    "label": "Reproduction d'enregistrements"
   },
   {
-    "Code": "19.10",
-    "Libellé": "Cokéfaction"
+    "id": "19.10",
+    "label": "Cokéfaction"
   },
   {
-    "Code": "19.20",
-    "Libellé": "Raffinage du pétrole"
+    "id": "19.20",
+    "label": "Raffinage du pétrole"
   },
   {
-    "Code": "20.11",
-    "Libellé": "Fabrication de gaz industriels"
+    "id": "20.11",
+    "label": "Fabrication de gaz industriels"
   },
   {
-    "Code": "20.12",
-    "Libellé": "Fabrication de colorants et de pigments"
+    "id": "20.12",
+    "label": "Fabrication de colorants et de pigments"
   },
   {
-    "Code": "20.13",
-    "Libellé": "Fabrication d'autres produits chimiques inorganiques de base"
+    "id": "20.13",
+    "label": "Fabrication d'autres produits chimiques inorganiques de base"
   },
   {
-    "Code": "20.14",
-    "Libellé": "Fabrication d'autres produits chimiques organiques de base"
+    "id": "20.14",
+    "label": "Fabrication d'autres produits chimiques organiques de base"
   },
   {
-    "Code": "20.15",
-    "Libellé": "Fabrication de produits azotés et d'engrais"
+    "id": "20.15",
+    "label": "Fabrication de produits azotés et d'engrais"
   },
   {
-    "Code": "20.16",
-    "Libellé": "Fabrication de matières plastiques de base"
+    "id": "20.16",
+    "label": "Fabrication de matières plastiques de base"
   },
   {
-    "Code": "20.17",
-    "Libellé": "Fabrication de caoutchouc synthétique"
+    "id": "20.17",
+    "label": "Fabrication de caoutchouc synthétique"
   },
   {
-    "Code": "20.20",
-    "Libellé": "Fabrication de pesticides et d'autres produits agrochimiques"
+    "id": "20.20",
+    "label": "Fabrication de pesticides et d'autres produits agrochimiques"
   },
   {
-    "Code": "20.30",
-    "Libellé": "Fabrication de peintures, vernis, encres et mastics"
+    "id": "20.30",
+    "label": "Fabrication de peintures, vernis, encres et mastics"
   },
   {
-    "Code": "20.41",
-    "Libellé": "Fabrication de savons, détergents et produits d'entretien"
+    "id": "20.41",
+    "label": "Fabrication de savons, détergents et produits d'entretien"
   },
   {
-    "Code": "20.42",
-    "Libellé": "Fabrication de parfums et de produits pour la toilette"
+    "id": "20.42",
+    "label": "Fabrication de parfums et de produits pour la toilette"
   },
   {
-    "Code": "20.51",
-    "Libellé": "Fabrication de produits explosifs"
+    "id": "20.51",
+    "label": "Fabrication de produits explosifs"
   },
   {
-    "Code": "20.52",
-    "Libellé": "Fabrication de colles"
+    "id": "20.52",
+    "label": "Fabrication de colles"
   },
   {
-    "Code": "20.53",
-    "Libellé": "Fabrication d'huiles essentielles"
+    "id": "20.53",
+    "label": "Fabrication d'huiles essentielles"
   },
   {
-    "Code": "20.59",
-    "Libellé": "Fabrication d'autres produits chimiques n.c.a."
+    "id": "20.59",
+    "label": "Fabrication d'autres produits chimiques n.c.a."
   },
   {
-    "Code": "20.60",
-    "Libellé": "Fabrication de fibres artificielles ou synthétiques"
+    "id": "20.60",
+    "label": "Fabrication de fibres artificielles ou synthétiques"
   },
   {
-    "Code": "21.10",
-    "Libellé": "Fabrication de produits pharmaceutiques de base"
+    "id": "21.10",
+    "label": "Fabrication de produits pharmaceutiques de base"
   },
   {
-    "Code": "21.20",
-    "Libellé": "Fabrication de préparations pharmaceutiques"
+    "id": "21.20",
+    "label": "Fabrication de préparations pharmaceutiques"
   },
   {
-    "Code": "22.11",
-    "Libellé": "Fabrication et rechapage de pneumatiques"
+    "id": "22.11",
+    "label": "Fabrication et rechapage de pneumatiques"
   },
   {
-    "Code": "22.19",
-    "Libellé": "Fabrication d'autres articles en caoutchouc"
+    "id": "22.19",
+    "label": "Fabrication d'autres articles en caoutchouc"
   },
   {
-    "Code": "22.21",
-    "Libellé": "Fabrication de plaques, feuilles, tubes et profilés en matières plastiques"
+    "id": "22.21",
+    "label": "Fabrication de plaques, feuilles, tubes et profilés en matières plastiques"
   },
   {
-    "Code": "22.22",
-    "Libellé": "Fabrication d'emballages en matières plastiques"
+    "id": "22.22",
+    "label": "Fabrication d'emballages en matières plastiques"
   },
   {
-    "Code": "22.23",
-    "Libellé": "Fabrication d'éléments en matières plastiques pour la construction"
+    "id": "22.23",
+    "label": "Fabrication d'éléments en matières plastiques pour la construction"
   },
   {
-    "Code": "22.29",
-    "Libellé": "Fabrication d'autres articles en matières plastiques"
+    "id": "22.29",
+    "label": "Fabrication d'autres articles en matières plastiques"
   },
   {
-    "Code": "23.11",
-    "Libellé": "Fabrication de verre plat"
+    "id": "23.11",
+    "label": "Fabrication de verre plat"
   },
   {
-    "Code": "23.12",
-    "Libellé": "Façonnage et transformation du verre plat"
+    "id": "23.12",
+    "label": "Façonnage et transformation du verre plat"
   },
   {
-    "Code": "23.13",
-    "Libellé": "Fabrication de verre creux"
+    "id": "23.13",
+    "label": "Fabrication de verre creux"
   },
   {
-    "Code": "23.14",
-    "Libellé": "Fabrication de fibres de verre"
+    "id": "23.14",
+    "label": "Fabrication de fibres de verre"
   },
   {
-    "Code": "23.19",
-    "Libellé": "Fabrication et façonnage d'autres articles en verre, y compris verre technique"
+    "id": "23.19",
+    "label": "Fabrication et façonnage d'autres articles en verre, y compris verre technique"
   },
   {
-    "Code": "23.20",
-    "Libellé": "Fabrication de produits réfractaires"
+    "id": "23.20",
+    "label": "Fabrication de produits réfractaires"
   },
   {
-    "Code": "23.31",
-    "Libellé": "Fabrication de carreaux en céramique"
+    "id": "23.31",
+    "label": "Fabrication de carreaux en céramique"
   },
   {
-    "Code": "23.32",
-    "Libellé": "Fabrication de briques, tuiles et produits de construction, en terre cuite"
+    "id": "23.32",
+    "label": "Fabrication de briques, tuiles et produits de construction, en terre cuite"
   },
   {
-    "Code": "23.41",
-    "Libellé": "Fabrication d'articles céramiques à usage domestique ou ornemental"
+    "id": "23.41",
+    "label": "Fabrication d'articles céramiques à usage domestique ou ornemental"
   },
   {
-    "Code": "23.42",
-    "Libellé": "Fabrication d'appareils sanitaires en céramique"
+    "id": "23.42",
+    "label": "Fabrication d'appareils sanitaires en céramique"
   },
   {
-    "Code": "23.43",
-    "Libellé": "Fabrication d'isolateurs et pièces isolantes en céramique"
+    "id": "23.43",
+    "label": "Fabrication d'isolateurs et pièces isolantes en céramique"
   },
   {
-    "Code": "23.44",
-    "Libellé": "Fabrication d'autres produits céramiques à usage technique"
+    "id": "23.44",
+    "label": "Fabrication d'autres produits céramiques à usage technique"
   },
   {
-    "Code": "23.49",
-    "Libellé": "Fabrication d'autres produits céramiques"
+    "id": "23.49",
+    "label": "Fabrication d'autres produits céramiques"
   },
   {
-    "Code": "23.51",
-    "Libellé": "Fabrication de ciment"
+    "id": "23.51",
+    "label": "Fabrication de ciment"
   },
   {
-    "Code": "23.52",
-    "Libellé": "Fabrication de chaux et plâtre"
+    "id": "23.52",
+    "label": "Fabrication de chaux et plâtre"
   },
   {
-    "Code": "23.61",
-    "Libellé": "Fabrication d'éléments en béton pour la construction"
+    "id": "23.61",
+    "label": "Fabrication d'éléments en béton pour la construction"
   },
   {
-    "Code": "23.62",
-    "Libellé": "Fabrication d'éléments en plâtre pour la construction"
+    "id": "23.62",
+    "label": "Fabrication d'éléments en plâtre pour la construction"
   },
   {
-    "Code": "23.63",
-    "Libellé": "Fabrication de béton prêt à l'emploi"
+    "id": "23.63",
+    "label": "Fabrication de béton prêt à l'emploi"
   },
   {
-    "Code": "23.64",
-    "Libellé": "Fabrication de mortiers et bétons secs"
+    "id": "23.64",
+    "label": "Fabrication de mortiers et bétons secs"
   },
   {
-    "Code": "23.65",
-    "Libellé": "Fabrication d'ouvrages en fibre-ciment"
+    "id": "23.65",
+    "label": "Fabrication d'ouvrages en fibre-ciment"
   },
   {
-    "Code": "23.69",
-    "Libellé": "Fabrication d'autres ouvrages en béton, en ciment ou en plâtre"
+    "id": "23.69",
+    "label": "Fabrication d'autres ouvrages en béton, en ciment ou en plâtre"
   },
   {
-    "Code": "23.70",
-    "Libellé": "Taille, façonnage et finissage de pierres"
+    "id": "23.70",
+    "label": "Taille, façonnage et finissage de pierres"
   },
   {
-    "Code": "23.91",
-    "Libellé": "Fabrication de produits abrasifs"
+    "id": "23.91",
+    "label": "Fabrication de produits abrasifs"
   },
   {
-    "Code": "23.99",
-    "Libellé": "Fabrication d'autres produits minéraux non métalliques n.c.a."
+    "id": "23.99",
+    "label": "Fabrication d'autres produits minéraux non métalliques n.c.a."
   },
   {
-    "Code": "24.10",
-    "Libellé": "Sidérurgie"
+    "id": "24.10",
+    "label": "Sidérurgie"
   },
   {
-    "Code": "24.20",
-    "Libellé": "Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier"
+    "id": "24.20",
+    "label": "Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier"
   },
   {
-    "Code": "24.31",
-    "Libellé": "Étirage à froid de barres"
+    "id": "24.31",
+    "label": "Étirage à froid de barres"
   },
   {
-    "Code": "24.32",
-    "Libellé": "Laminage à froid de feuillards"
+    "id": "24.32",
+    "label": "Laminage à froid de feuillards"
   },
   {
-    "Code": "24.33",
-    "Libellé": "Profilage à froid par formage ou pliage"
+    "id": "24.33",
+    "label": "Profilage à froid par formage ou pliage"
   },
   {
-    "Code": "24.34",
-    "Libellé": "Tréfilage à froid"
+    "id": "24.34",
+    "label": "Tréfilage à froid"
   },
   {
-    "Code": "24.41",
-    "Libellé": "Production de métaux précieux"
+    "id": "24.41",
+    "label": "Production de métaux précieux"
   },
   {
-    "Code": "24.42",
-    "Libellé": "Métallurgie de l'aluminium"
+    "id": "24.42",
+    "label": "Métallurgie de l'aluminium"
   },
   {
-    "Code": "24.43",
-    "Libellé": "Métallurgie du plomb, du zinc ou de l'étain"
+    "id": "24.43",
+    "label": "Métallurgie du plomb, du zinc ou de l'étain"
   },
   {
-    "Code": "24.44",
-    "Libellé": "Métallurgie du cuivre"
+    "id": "24.44",
+    "label": "Métallurgie du cuivre"
   },
   {
-    "Code": "24.45",
-    "Libellé": "Métallurgie des autres métaux non ferreux"
+    "id": "24.45",
+    "label": "Métallurgie des autres métaux non ferreux"
   },
   {
-    "Code": "24.46",
-    "Libellé": "Élaboration et transformation de matières nucléaires"
+    "id": "24.46",
+    "label": "Élaboration et transformation de matières nucléaires"
   },
   {
-    "Code": "24.51",
-    "Libellé": "Fonderie de fonte"
+    "id": "24.51",
+    "label": "Fonderie de fonte"
   },
   {
-    "Code": "24.52",
-    "Libellé": "Fonderie d'acier"
+    "id": "24.52",
+    "label": "Fonderie d'acier"
   },
   {
-    "Code": "24.53",
-    "Libellé": "Fonderie de métaux légers"
+    "id": "24.53",
+    "label": "Fonderie de métaux légers"
   },
   {
-    "Code": "24.54",
-    "Libellé": "Fonderie d'autres métaux non ferreux"
+    "id": "24.54",
+    "label": "Fonderie d'autres métaux non ferreux"
   },
   {
-    "Code": "25.11",
-    "Libellé": "Fabrication de structures métalliques et de parties de structures"
+    "id": "25.11",
+    "label": "Fabrication de structures métalliques et de parties de structures"
   },
   {
-    "Code": "25.12",
-    "Libellé": "Fabrication de portes et fenêtres en métal"
+    "id": "25.12",
+    "label": "Fabrication de portes et fenêtres en métal"
   },
   {
-    "Code": "25.21",
-    "Libellé": "Fabrication de radiateurs et de chaudières pour le chauffage central"
+    "id": "25.21",
+    "label": "Fabrication de radiateurs et de chaudières pour le chauffage central"
   },
   {
-    "Code": "25.29",
-    "Libellé": "Fabrication d'autres réservoirs, citernes et conteneurs métalliques"
+    "id": "25.29",
+    "label": "Fabrication d'autres réservoirs, citernes et conteneurs métalliques"
   },
   {
-    "Code": "25.30",
-    "Libellé": "Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central"
+    "id": "25.30",
+    "label": "Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central"
   },
   {
-    "Code": "25.40",
-    "Libellé": "Fabrication d'armes et de munitions"
+    "id": "25.40",
+    "label": "Fabrication d'armes et de munitions"
   },
   {
-    "Code": "25.50",
-    "Libellé": "Forge, emboutissage, estampage ; métallurgie des poudres"
+    "id": "25.50",
+    "label": "Forge, emboutissage, estampage ; métallurgie des poudres"
   },
   {
-    "Code": "25.61",
-    "Libellé": "Traitement et revêtement des métaux"
+    "id": "25.61",
+    "label": "Traitement et revêtement des métaux"
   },
   {
-    "Code": "25.62",
-    "Libellé": "Usinage"
+    "id": "25.62",
+    "label": "Usinage"
   },
   {
-    "Code": "25.71",
-    "Libellé": "Fabrication de coutellerie"
+    "id": "25.71",
+    "label": "Fabrication de coutellerie"
   },
   {
-    "Code": "25.72",
-    "Libellé": "Fabrication de serrures et de ferrures"
+    "id": "25.72",
+    "label": "Fabrication de serrures et de ferrures"
   },
   {
-    "Code": "25.73",
-    "Libellé": "Fabrication d'outillage"
+    "id": "25.73",
+    "label": "Fabrication d'outillage"
   },
   {
-    "Code": "25.91",
-    "Libellé": "Fabrication de fûts et emballages métalliques similaires"
+    "id": "25.91",
+    "label": "Fabrication de fûts et emballages métalliques similaires"
   },
   {
-    "Code": "25.92",
-    "Libellé": "Fabrication d'emballages métalliques légers"
+    "id": "25.92",
+    "label": "Fabrication d'emballages métalliques légers"
   },
   {
-    "Code": "25.93",
-    "Libellé": "Fabrication d'articles en fils métalliques, de chaînes et de ressorts"
+    "id": "25.93",
+    "label": "Fabrication d'articles en fils métalliques, de chaînes et de ressorts"
   },
   {
-    "Code": "25.94",
-    "Libellé": "Fabrication de vis et de boulons"
+    "id": "25.94",
+    "label": "Fabrication de vis et de boulons"
   },
   {
-    "Code": "25.99",
-    "Libellé": "Fabrication d'autres produits métalliques n.c.a."
+    "id": "25.99",
+    "label": "Fabrication d'autres produits métalliques n.c.a."
   },
   {
-    "Code": "26.11",
-    "Libellé": "Fabrication de composants électroniques"
+    "id": "26.11",
+    "label": "Fabrication de composants électroniques"
   },
   {
-    "Code": "26.12",
-    "Libellé": "Fabrication de cartes électroniques assemblées"
+    "id": "26.12",
+    "label": "Fabrication de cartes électroniques assemblées"
   },
   {
-    "Code": "26.20",
-    "Libellé": "Fabrication d'ordinateurs et d'équipements périphériques"
+    "id": "26.20",
+    "label": "Fabrication d'ordinateurs et d'équipements périphériques"
   },
   {
-    "Code": "26.30",
-    "Libellé": "Fabrication d'équipements de communication"
+    "id": "26.30",
+    "label": "Fabrication d'équipements de communication"
   },
   {
-    "Code": "26.40",
-    "Libellé": "Fabrication de produits électroniques grand public"
+    "id": "26.40",
+    "label": "Fabrication de produits électroniques grand public"
   },
   {
-    "Code": "26.51",
-    "Libellé": "Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation"
+    "id": "26.51",
+    "label": "Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation"
   },
   {
-    "Code": "26.52",
-    "Libellé": "Horlogerie"
+    "id": "26.52",
+    "label": "Horlogerie"
   },
   {
-    "Code": "26.60",
-    "Libellé": "Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques"
+    "id": "26.60",
+    "label": "Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques"
   },
   {
-    "Code": "26.70",
-    "Libellé": "Fabrication de matériels optique et photographique"
+    "id": "26.70",
+    "label": "Fabrication de matériels optique et photographique"
   },
   {
-    "Code": "26.80",
-    "Libellé": "Fabrication de supports magnétiques et optiques"
+    "id": "26.80",
+    "label": "Fabrication de supports magnétiques et optiques"
   },
   {
-    "Code": "27.11",
-    "Libellé": "Fabrication de moteurs, génératrices et transformateurs électriques"
+    "id": "27.11",
+    "label": "Fabrication de moteurs, génératrices et transformateurs électriques"
   },
   {
-    "Code": "27.12",
-    "Libellé": "Fabrication de matériel de distribution et de commande électrique"
+    "id": "27.12",
+    "label": "Fabrication de matériel de distribution et de commande électrique"
   },
   {
-    "Code": "27.20",
-    "Libellé": "Fabrication de piles et d'accumulateurs électriques"
+    "id": "27.20",
+    "label": "Fabrication de piles et d'accumulateurs électriques"
   },
   {
-    "Code": "27.31",
-    "Libellé": "Fabrication de câbles de fibres optiques"
+    "id": "27.31",
+    "label": "Fabrication de câbles de fibres optiques"
   },
   {
-    "Code": "27.32",
-    "Libellé": "Fabrication d'autres fils et câbles électroniques ou électriques"
+    "id": "27.32",
+    "label": "Fabrication d'autres fils et câbles électroniques ou électriques"
   },
   {
-    "Code": "27.33",
-    "Libellé": "Fabrication de matériel d'installation électrique"
+    "id": "27.33",
+    "label": "Fabrication de matériel d'installation électrique"
   },
   {
-    "Code": "27.40",
-    "Libellé": "Fabrication d'appareils d'éclairage électrique"
+    "id": "27.40",
+    "label": "Fabrication d'appareils d'éclairage électrique"
   },
   {
-    "Code": "27.51",
-    "Libellé": "Fabrication d'appareils électroménagers"
+    "id": "27.51",
+    "label": "Fabrication d'appareils électroménagers"
   },
   {
-    "Code": "27.52",
-    "Libellé": "Fabrication d'appareils ménagers non électriques"
+    "id": "27.52",
+    "label": "Fabrication d'appareils ménagers non électriques"
   },
   {
-    "Code": "27.90",
-    "Libellé": "Fabrication d'autres matériels électriques"
+    "id": "27.90",
+    "label": "Fabrication d'autres matériels électriques"
   },
   {
-    "Code": "28.11",
-    "Libellé": "Fabrication de moteurs et turbines, à l'exception des moteurs d'avions et de véhicules"
+    "id": "28.11",
+    "label": "Fabrication de moteurs et turbines, à l'exception des moteurs d'avions et de véhicules"
   },
   {
-    "Code": "28.12",
-    "Libellé": "Fabrication d'équipements hydrauliques et pneumatiques"
+    "id": "28.12",
+    "label": "Fabrication d'équipements hydrauliques et pneumatiques"
   },
   {
-    "Code": "28.13",
-    "Libellé": "Fabrication d'autres pompes et compresseurs"
+    "id": "28.13",
+    "label": "Fabrication d'autres pompes et compresseurs"
   },
   {
-    "Code": "28.14",
-    "Libellé": "Fabrication d'autres articles de robinetterie"
+    "id": "28.14",
+    "label": "Fabrication d'autres articles de robinetterie"
   },
   {
-    "Code": "28.15",
-    "Libellé": "Fabrication d'engrenages et d'organes mécaniques de transmission"
+    "id": "28.15",
+    "label": "Fabrication d'engrenages et d'organes mécaniques de transmission"
   },
   {
-    "Code": "28.21",
-    "Libellé": "Fabrication de fours et brûleurs"
+    "id": "28.21",
+    "label": "Fabrication de fours et brûleurs"
   },
   {
-    "Code": "28.22",
-    "Libellé": "Fabrication de matériel de levage et de manutention"
+    "id": "28.22",
+    "label": "Fabrication de matériel de levage et de manutention"
   },
   {
-    "Code": "28.23",
-    "Libellé": "Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques)"
+    "id": "28.23",
+    "label": "Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques)"
   },
   {
-    "Code": "28.24",
-    "Libellé": "Fabrication d'outillage portatif à moteur incorporé"
+    "id": "28.24",
+    "label": "Fabrication d'outillage portatif à moteur incorporé"
   },
   {
-    "Code": "28.25",
-    "Libellé": "Fabrication d'équipements aérauliques et frigorifiques industriels"
+    "id": "28.25",
+    "label": "Fabrication d'équipements aérauliques et frigorifiques industriels"
   },
   {
-    "Code": "28.29",
-    "Libellé": "Fabrication de machines diverses d'usage général"
+    "id": "28.29",
+    "label": "Fabrication de machines diverses d'usage général"
   },
   {
-    "Code": "28.30",
-    "Libellé": "Fabrication de machines agricoles et forestières"
+    "id": "28.30",
+    "label": "Fabrication de machines agricoles et forestières"
   },
   {
-    "Code": "28.41",
-    "Libellé": "Fabrication de machines de formage des métaux"
+    "id": "28.41",
+    "label": "Fabrication de machines de formage des métaux"
   },
   {
-    "Code": "28.49",
-    "Libellé": "Fabrication d'autres machines-outils"
+    "id": "28.49",
+    "label": "Fabrication d'autres machines-outils"
   },
   {
-    "Code": "28.91",
-    "Libellé": "Fabrication de machines pour la métallurgie"
+    "id": "28.91",
+    "label": "Fabrication de machines pour la métallurgie"
   },
   {
-    "Code": "28.92",
-    "Libellé": "Fabrication de machines pour l'extraction ou la construction"
+    "id": "28.92",
+    "label": "Fabrication de machines pour l'extraction ou la construction"
   },
   {
-    "Code": "28.93",
-    "Libellé": "Fabrication de machines pour l'industrie agro-alimentaire"
+    "id": "28.93",
+    "label": "Fabrication de machines pour l'industrie agro-alimentaire"
   },
   {
-    "Code": "28.94",
-    "Libellé": "Fabrication de machines pour les industries textiles"
+    "id": "28.94",
+    "label": "Fabrication de machines pour les industries textiles"
   },
   {
-    "Code": "28.95",
-    "Libellé": "Fabrication de machines pour les industries du papier et du carton"
+    "id": "28.95",
+    "label": "Fabrication de machines pour les industries du papier et du carton"
   },
   {
-    "Code": "28.96",
-    "Libellé": "Fabrication de machines pour le travail du caoutchouc ou des plastiques"
+    "id": "28.96",
+    "label": "Fabrication de machines pour le travail du caoutchouc ou des plastiques"
   },
   {
-    "Code": "28.99",
-    "Libellé": "Fabrication d'autres machines d'usage spécifique n.c.a."
+    "id": "28.99",
+    "label": "Fabrication d'autres machines d'usage spécifique n.c.a."
   },
   {
-    "Code": "29.10",
-    "Libellé": "Construction de véhicules automobiles"
+    "id": "29.10",
+    "label": "Construction de véhicules automobiles"
   },
   {
-    "Code": "29.20",
-    "Libellé": "Fabrication de carrosseries et remorques"
+    "id": "29.20",
+    "label": "Fabrication de carrosseries et remorques"
   },
   {
-    "Code": "29.31",
-    "Libellé": "Fabrication d'équipements électriques et électroniques automobiles"
+    "id": "29.31",
+    "label": "Fabrication d'équipements électriques et électroniques automobiles"
   },
   {
-    "Code": "29.32",
-    "Libellé": "Fabrication d'autres équipements automobiles"
+    "id": "29.32",
+    "label": "Fabrication d'autres équipements automobiles"
   },
   {
-    "Code": "30.11",
-    "Libellé": "Construction de navires et de structures flottantes"
+    "id": "30.11",
+    "label": "Construction de navires et de structures flottantes"
   },
   {
-    "Code": "30.12",
-    "Libellé": "Construction de bateaux de plaisance"
+    "id": "30.12",
+    "label": "Construction de bateaux de plaisance"
   },
   {
-    "Code": "30.20",
-    "Libellé": "Construction de locomotives et d'autre matériel ferroviaire roulant"
+    "id": "30.20",
+    "label": "Construction de locomotives et d'autre matériel ferroviaire roulant"
   },
   {
-    "Code": "30.30",
-    "Libellé": "Construction aéronautique et spatiale"
+    "id": "30.30",
+    "label": "Construction aéronautique et spatiale"
   },
   {
-    "Code": "30.40",
-    "Libellé": "Construction de véhicules militaires de combat"
+    "id": "30.40",
+    "label": "Construction de véhicules militaires de combat"
   },
   {
-    "Code": "30.91",
-    "Libellé": "Fabrication de motocycles"
+    "id": "30.91",
+    "label": "Fabrication de motocycles"
   },
   {
-    "Code": "30.92",
-    "Libellé": "Fabrication de bicyclettes et de véhicules pour invalides"
+    "id": "30.92",
+    "label": "Fabrication de bicyclettes et de véhicules pour invalides"
   },
   {
-    "Code": "30.99",
-    "Libellé": "Fabrication d'autres équipements de transport n.c.a."
+    "id": "30.99",
+    "label": "Fabrication d'autres équipements de transport n.c.a."
   },
   {
-    "Code": "31.01",
-    "Libellé": "Fabrication de meubles de bureau et de magasin"
+    "id": "31.01",
+    "label": "Fabrication de meubles de bureau et de magasin"
   },
   {
-    "Code": "31.02",
-    "Libellé": "Fabrication de meubles de cuisine"
+    "id": "31.02",
+    "label": "Fabrication de meubles de cuisine"
   },
   {
-    "Code": "31.03",
-    "Libellé": "Fabrication de matelas"
+    "id": "31.03",
+    "label": "Fabrication de matelas"
   },
   {
-    "Code": "31.09",
-    "Libellé": "Fabrication d'autres meubles"
+    "id": "31.09",
+    "label": "Fabrication d'autres meubles"
   },
   {
-    "Code": "32.11",
-    "Libellé": "Frappe de monnaie"
+    "id": "32.11",
+    "label": "Frappe de monnaie"
   },
   {
-    "Code": "32.12",
-    "Libellé": "Fabrication d'articles de joaillerie et bijouterie"
+    "id": "32.12",
+    "label": "Fabrication d'articles de joaillerie et bijouterie"
   },
   {
-    "Code": "32.13",
-    "Libellé": "Fabrication d'articles de bijouterie fantaisie et articles similaires"
+    "id": "32.13",
+    "label": "Fabrication d'articles de bijouterie fantaisie et articles similaires"
   },
   {
-    "Code": "32.20",
-    "Libellé": "Fabrication d'instruments de musique"
+    "id": "32.20",
+    "label": "Fabrication d'instruments de musique"
   },
   {
-    "Code": "32.30",
-    "Libellé": "Fabrication d'articles de sport"
+    "id": "32.30",
+    "label": "Fabrication d'articles de sport"
   },
   {
-    "Code": "32.40",
-    "Libellé": "Fabrication de jeux et jouets"
+    "id": "32.40",
+    "label": "Fabrication de jeux et jouets"
   },
   {
-    "Code": "32.50",
-    "Libellé": "Fabrication d'instruments et de fournitures à usage médical et dentaire"
+    "id": "32.50",
+    "label": "Fabrication d'instruments et de fournitures à usage médical et dentaire"
   },
   {
-    "Code": "32.91",
-    "Libellé": "Fabrication d'articles de brosserie"
+    "id": "32.91",
+    "label": "Fabrication d'articles de brosserie"
   },
   {
-    "Code": "32.99",
-    "Libellé": "Autres activités manufacturières n.c.a."
+    "id": "32.99",
+    "label": "Autres activités manufacturières n.c.a."
   },
   {
-    "Code": "33.11",
-    "Libellé": "Réparation d'ouvrages en métaux"
+    "id": "33.11",
+    "label": "Réparation d'ouvrages en métaux"
   },
   {
-    "Code": "33.12",
-    "Libellé": "Réparation de machines et équipements mécaniques"
+    "id": "33.12",
+    "label": "Réparation de machines et équipements mécaniques"
   },
   {
-    "Code": "33.13",
-    "Libellé": "Réparation de matériels électroniques et optiques"
+    "id": "33.13",
+    "label": "Réparation de matériels électroniques et optiques"
   },
   {
-    "Code": "33.14",
-    "Libellé": "Réparation d'équipements électriques"
+    "id": "33.14",
+    "label": "Réparation d'équipements électriques"
   },
   {
-    "Code": "33.15",
-    "Libellé": "Réparation et maintenance navale"
+    "id": "33.15",
+    "label": "Réparation et maintenance navale"
   },
   {
-    "Code": "33.16",
-    "Libellé": "Réparation et maintenance d'aéronefs et d'engins spatiaux"
+    "id": "33.16",
+    "label": "Réparation et maintenance d'aéronefs et d'engins spatiaux"
   },
   {
-    "Code": "33.17",
-    "Libellé": "Réparation et maintenance d'autres équipements de transport"
+    "id": "33.17",
+    "label": "Réparation et maintenance d'autres équipements de transport"
   },
   {
-    "Code": "33.19",
-    "Libellé": "Réparation d'autres équipements"
+    "id": "33.19",
+    "label": "Réparation d'autres équipements"
   },
   {
-    "Code": "33.20",
-    "Libellé": "Installation de machines et d'équipements industriels"
+    "id": "33.20",
+    "label": "Installation de machines et d'équipements industriels"
   },
   {
-    "Code": "35.11",
-    "Libellé": "Production d'électricité"
+    "id": "35.11",
+    "label": "Production d'électricité"
   },
   {
-    "Code": "35.12",
-    "Libellé": "Transport d'électricité"
+    "id": "35.12",
+    "label": "Transport d'électricité"
   },
   {
-    "Code": "35.13",
-    "Libellé": "Distribution d'électricité"
+    "id": "35.13",
+    "label": "Distribution d'électricité"
   },
   {
-    "Code": "35.14",
-    "Libellé": "Commerce d'électricité"
+    "id": "35.14",
+    "label": "Commerce d'électricité"
   },
   {
-    "Code": "35.21",
-    "Libellé": "Production de combustibles gazeux"
+    "id": "35.21",
+    "label": "Production de combustibles gazeux"
   },
   {
-    "Code": "35.22",
-    "Libellé": "Distribution de combustibles gazeux par conduites"
+    "id": "35.22",
+    "label": "Distribution de combustibles gazeux par conduites"
   },
   {
-    "Code": "35.23",
-    "Libellé": "Commerce de combustibles gazeux par conduites"
+    "id": "35.23",
+    "label": "Commerce de combustibles gazeux par conduites"
   },
   {
-    "Code": "35.30",
-    "Libellé": "Production et distribution de vapeur et d'air conditionné"
+    "id": "35.30",
+    "label": "Production et distribution de vapeur et d'air conditionné"
   },
   {
-    "Code": "36.00",
-    "Libellé": "Captage, traitement et distribution d'eau"
+    "id": "36.00",
+    "label": "Captage, traitement et distribution d'eau"
   },
   {
-    "Code": "37.00",
-    "Libellé": "Collecte et traitement des eaux usées"
+    "id": "37.00",
+    "label": "Collecte et traitement des eaux usées"
   },
   {
-    "Code": "38.11",
-    "Libellé": "Collecte des déchets non dangereux"
+    "id": "38.11",
+    "label": "Collecte des déchets non dangereux"
   },
   {
-    "Code": "38.12",
-    "Libellé": "Collecte des déchets dangereux"
+    "id": "38.12",
+    "label": "Collecte des déchets dangereux"
   },
   {
-    "Code": "38.21",
-    "Libellé": "Traitement et élimination des déchets non dangereux"
+    "id": "38.21",
+    "label": "Traitement et élimination des déchets non dangereux"
   },
   {
-    "Code": "38.22",
-    "Libellé": "Traitement et élimination des déchets dangereux"
+    "id": "38.22",
+    "label": "Traitement et élimination des déchets dangereux"
   },
   {
-    "Code": "38.31",
-    "Libellé": "Démantèlement d'épaves"
+    "id": "38.31",
+    "label": "Démantèlement d'épaves"
   },
   {
-    "Code": "38.32",
-    "Libellé": "Récupération de déchets triés"
+    "id": "38.32",
+    "label": "Récupération de déchets triés"
   },
   {
-    "Code": "39.00",
-    "Libellé": "Dépollution et autres services de gestion des déchets"
+    "id": "39.00",
+    "label": "Dépollution et autres services de gestion des déchets"
   },
   {
-    "Code": "41.10",
-    "Libellé": "Promotion immobilière"
+    "id": "41.10",
+    "label": "Promotion immobilière"
   },
   {
-    "Code": "41.20",
-    "Libellé": "Construction de bâtiments résidentiels et non résidentiels"
+    "id": "41.20",
+    "label": "Construction de bâtiments résidentiels et non résidentiels"
   },
   {
-    "Code": "42.11",
-    "Libellé": "Construction de routes et autoroutes"
+    "id": "42.11",
+    "label": "Construction de routes et autoroutes"
   },
   {
-    "Code": "42.12",
-    "Libellé": "Construction de voies ferrées de surface et souterraines"
+    "id": "42.12",
+    "label": "Construction de voies ferrées de surface et souterraines"
   },
   {
-    "Code": "42.13",
-    "Libellé": "Construction de ponts et tunnels"
+    "id": "42.13",
+    "label": "Construction de ponts et tunnels"
   },
   {
-    "Code": "42.21",
-    "Libellé": "Construction de réseaux pour fluides"
+    "id": "42.21",
+    "label": "Construction de réseaux pour fluides"
   },
   {
-    "Code": "42.22",
-    "Libellé": "Construction de réseaux électriques et de télécommunications"
+    "id": "42.22",
+    "label": "Construction de réseaux électriques et de télécommunications"
   },
   {
-    "Code": "42.91",
-    "Libellé": "Construction d'ouvrages maritimes et fluviaux"
+    "id": "42.91",
+    "label": "Construction d'ouvrages maritimes et fluviaux"
   },
   {
-    "Code": "42.99",
-    "Libellé": "Construction d'autres ouvrages de génie civil n.c.a."
+    "id": "42.99",
+    "label": "Construction d'autres ouvrages de génie civil n.c.a."
   },
   {
-    "Code": "43.11",
-    "Libellé": "Travaux de démolition"
+    "id": "43.11",
+    "label": "Travaux de démolition"
   },
   {
-    "Code": "43.12",
-    "Libellé": "Travaux de préparation des sites"
+    "id": "43.12",
+    "label": "Travaux de préparation des sites"
   },
   {
-    "Code": "43.13",
-    "Libellé": "Forages et sondages"
+    "id": "43.13",
+    "label": "Forages et sondages"
   },
   {
-    "Code": "43.21",
-    "Libellé": "Installation électrique"
+    "id": "43.21",
+    "label": "Installation électrique"
   },
   {
-    "Code": "43.22",
-    "Libellé": "Travaux de plomberie et installation de chauffage et de conditionnement d'air"
+    "id": "43.22",
+    "label": "Travaux de plomberie et installation de chauffage et de conditionnement d'air"
   },
   {
-    "Code": "43.29",
-    "Libellé": "Autres travaux d'installation"
+    "id": "43.29",
+    "label": "Autres travaux d'installation"
   },
   {
-    "Code": "43.31",
-    "Libellé": "Travaux de plâtrerie"
+    "id": "43.31",
+    "label": "Travaux de plâtrerie"
   },
   {
-    "Code": "43.32",
-    "Libellé": "Travaux de menuiserie"
+    "id": "43.32",
+    "label": "Travaux de menuiserie"
   },
   {
-    "Code": "43.33",
-    "Libellé": "Travaux de revêtement des sols et des murs"
+    "id": "43.33",
+    "label": "Travaux de revêtement des sols et des murs"
   },
   {
-    "Code": "43.34",
-    "Libellé": "Travaux de peinture et vitrerie"
+    "id": "43.34",
+    "label": "Travaux de peinture et vitrerie"
   },
   {
-    "Code": "43.39",
-    "Libellé": "Autres travaux de finition"
+    "id": "43.39",
+    "label": "Autres travaux de finition"
   },
   {
-    "Code": "43.91",
-    "Libellé": "Travaux de couverture"
+    "id": "43.91",
+    "label": "Travaux de couverture"
   },
   {
-    "Code": "43.99",
-    "Libellé": "Autres travaux de construction spécialisés n.c.a."
+    "id": "43.99",
+    "label": "Autres travaux de construction spécialisés n.c.a."
   },
   {
-    "Code": "45.11",
-    "Libellé": "Commerce de voitures et de véhicules automobiles légers"
+    "id": "45.11",
+    "label": "Commerce de voitures et de véhicules automobiles légers"
   },
   {
-    "Code": "45.19",
-    "Libellé": "Commerce d'autres véhicules automobiles"
+    "id": "45.19",
+    "label": "Commerce d'autres véhicules automobiles"
   },
   {
-    "Code": "45.20",
-    "Libellé": "Entretien et réparation de véhicules automobiles"
+    "id": "45.20",
+    "label": "Entretien et réparation de véhicules automobiles"
   },
   {
-    "Code": "45.31",
-    "Libellé": "Commerce de gros d'équipements automobiles"
+    "id": "45.31",
+    "label": "Commerce de gros d'équipements automobiles"
   },
   {
-    "Code": "45.32",
-    "Libellé": "Commerce de détail d'équipements automobiles"
+    "id": "45.32",
+    "label": "Commerce de détail d'équipements automobiles"
   },
   {
-    "Code": "45.40",
-    "Libellé": "Commerce et réparation de motocycles"
+    "id": "45.40",
+    "label": "Commerce et réparation de motocycles"
   },
   {
-    "Code": "46.11",
-    "Libellé": "Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis"
+    "id": "46.11",
+    "label": "Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis"
   },
   {
-    "Code": "46.12",
-    "Libellé": "Intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques"
+    "id": "46.12",
+    "label": "Intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques"
   },
   {
-    "Code": "46.13",
-    "Libellé": "Intermédiaires du commerce en bois et matériaux de construction"
+    "id": "46.13",
+    "label": "Intermédiaires du commerce en bois et matériaux de construction"
   },
   {
-    "Code": "46.14",
-    "Libellé": "Intermédiaires du commerce en machines, équipements industriels, navires et avions"
+    "id": "46.14",
+    "label": "Intermédiaires du commerce en machines, équipements industriels, navires et avions"
   },
   {
-    "Code": "46.15",
-    "Libellé": "Intermédiaires du commerce en meubles, articles de ménage et quincaillerie"
+    "id": "46.15",
+    "label": "Intermédiaires du commerce en meubles, articles de ménage et quincaillerie"
   },
   {
-    "Code": "46.16",
-    "Libellé": "Intermédiaires du commerce en textiles, habillement, fourrures, chaussures et articles en cuir"
+    "id": "46.16",
+    "label": "Intermédiaires du commerce en textiles, habillement, fourrures, chaussures et articles en cuir"
   },
   {
-    "Code": "46.17",
-    "Libellé": "Intermédiaires du commerce en denrées, boissons et tabac"
+    "id": "46.17",
+    "label": "Intermédiaires du commerce en denrées, boissons et tabac"
   },
   {
-    "Code": "46.18",
-    "Libellé": "Intermédiaires spécialisés dans le commerce d'autres produits spécifiques"
+    "id": "46.18",
+    "label": "Intermédiaires spécialisés dans le commerce d'autres produits spécifiques"
   },
   {
-    "Code": "46.19",
-    "Libellé": "Intermédiaires du commerce en produits divers"
+    "id": "46.19",
+    "label": "Intermédiaires du commerce en produits divers"
   },
   {
-    "Code": "46.21",
-    "Libellé": "Commerce de gros de céréales, de tabac non manufacturé, de semences et d'aliments pour le bétail"
+    "id": "46.21",
+    "label": "Commerce de gros de céréales, de tabac non manufacturé, de semences et d'aliments pour le bétail"
   },
   {
-    "Code": "46.22",
-    "Libellé": "Commerce de gros de fleurs et plantes"
+    "id": "46.22",
+    "label": "Commerce de gros de fleurs et plantes"
   },
   {
-    "Code": "46.23",
-    "Libellé": "Commerce de gros d'animaux vivants"
+    "id": "46.23",
+    "label": "Commerce de gros d'animaux vivants"
   },
   {
-    "Code": "46.24",
-    "Libellé": "Commerce de gros de cuirs et peaux"
+    "id": "46.24",
+    "label": "Commerce de gros de cuirs et peaux"
   },
   {
-    "Code": "46.31",
-    "Libellé": "Commerce de gros de fruits et légumes"
+    "id": "46.31",
+    "label": "Commerce de gros de fruits et légumes"
   },
   {
-    "Code": "46.32",
-    "Libellé": "Commerce de gros de viandes et de produits à base de viande"
+    "id": "46.32",
+    "label": "Commerce de gros de viandes et de produits à base de viande"
   },
   {
-    "Code": "46.33",
-    "Libellé": "Commerce de gros de produits laitiers, œufs, huiles et matières grasses comestibles"
+    "id": "46.33",
+    "label": "Commerce de gros de produits laitiers, œufs, huiles et matières grasses comestibles"
   },
   {
-    "Code": "46.34",
-    "Libellé": "Commerce de gros de boissons"
+    "id": "46.34",
+    "label": "Commerce de gros de boissons"
   },
   {
-    "Code": "46.35",
-    "Libellé": "Commerce de gros de produits à base de tabac"
+    "id": "46.35",
+    "label": "Commerce de gros de produits à base de tabac"
   },
   {
-    "Code": "46.36",
-    "Libellé": "Commerce de gros de sucre, chocolat et confiserie"
+    "id": "46.36",
+    "label": "Commerce de gros de sucre, chocolat et confiserie"
   },
   {
-    "Code": "46.37",
-    "Libellé": "Commerce de gros de café, thé, cacao et épices"
+    "id": "46.37",
+    "label": "Commerce de gros de café, thé, cacao et épices"
   },
   {
-    "Code": "46.38",
-    "Libellé": "Commerce de gros d'autres produits alimentaires, y compris poissons, crustacés et mollusques"
+    "id": "46.38",
+    "label": "Commerce de gros d'autres produits alimentaires, y compris poissons, crustacés et mollusques"
   },
   {
-    "Code": "46.39",
-    "Libellé": "Commerce de gros non spécialisé de denrées, boissons et tabac"
+    "id": "46.39",
+    "label": "Commerce de gros non spécialisé de denrées, boissons et tabac"
   },
   {
-    "Code": "46.41",
-    "Libellé": "Commerce de gros de textiles"
+    "id": "46.41",
+    "label": "Commerce de gros de textiles"
   },
   {
-    "Code": "46.42",
-    "Libellé": "Commerce de gros d'habillement et de chaussures"
+    "id": "46.42",
+    "label": "Commerce de gros d'habillement et de chaussures"
   },
   {
-    "Code": "46.43",
-    "Libellé": "Commerce de gros d'appareils électroménagers"
+    "id": "46.43",
+    "label": "Commerce de gros d'appareils électroménagers"
   },
   {
-    "Code": "46.44",
-    "Libellé": "Commerce de gros de vaisselle, verrerie et produits d'entretien"
+    "id": "46.44",
+    "label": "Commerce de gros de vaisselle, verrerie et produits d'entretien"
   },
   {
-    "Code": "46.45",
-    "Libellé": "Commerce de gros de parfumerie et de produits de beauté"
+    "id": "46.45",
+    "label": "Commerce de gros de parfumerie et de produits de beauté"
   },
   {
-    "Code": "46.46",
-    "Libellé": "Commerce de gros de produits pharmaceutiques"
+    "id": "46.46",
+    "label": "Commerce de gros de produits pharmaceutiques"
   },
   {
-    "Code": "46.47",
-    "Libellé": "Commerce de gros de meubles, de tapis et d'appareils d'éclairage"
+    "id": "46.47",
+    "label": "Commerce de gros de meubles, de tapis et d'appareils d'éclairage"
   },
   {
-    "Code": "46.48",
-    "Libellé": "Commerce de gros d'articles d'horlogerie et de bijouterie"
+    "id": "46.48",
+    "label": "Commerce de gros d'articles d'horlogerie et de bijouterie"
   },
   {
-    "Code": "46.49",
-    "Libellé": "Commerce de gros d'autres biens domestiques"
+    "id": "46.49",
+    "label": "Commerce de gros d'autres biens domestiques"
   },
   {
-    "Code": "46.51",
-    "Libellé": "Commerce de gros d'ordinateurs, d'équipements informatiques périphériques et de logiciels"
+    "id": "46.51",
+    "label": "Commerce de gros d'ordinateurs, d'équipements informatiques périphériques et de logiciels"
   },
   {
-    "Code": "46.52",
-    "Libellé": "Commerce de gros de composants et d'équipements électroniques et de télécommunication"
+    "id": "46.52",
+    "label": "Commerce de gros de composants et d'équipements électroniques et de télécommunication"
   },
   {
-    "Code": "46.61",
-    "Libellé": "Commerce de gros de matériel agricole"
+    "id": "46.61",
+    "label": "Commerce de gros de matériel agricole"
   },
   {
-    "Code": "46.62",
-    "Libellé": "Commerce de gros de machines-outils"
+    "id": "46.62",
+    "label": "Commerce de gros de machines-outils"
   },
   {
-    "Code": "46.63",
-    "Libellé": "Commerce de gros de machines pour l'extraction, la construction et le génie civil"
+    "id": "46.63",
+    "label": "Commerce de gros de machines pour l'extraction, la construction et le génie civil"
   },
   {
-    "Code": "46.64",
-    "Libellé": "Commerce de gros de machines pour l'industrie textile et l'habillement"
+    "id": "46.64",
+    "label": "Commerce de gros de machines pour l'industrie textile et l'habillement"
   },
   {
-    "Code": "46.65",
-    "Libellé": "Commerce de gros de mobilier de bureau"
+    "id": "46.65",
+    "label": "Commerce de gros de mobilier de bureau"
   },
   {
-    "Code": "46.66",
-    "Libellé": "Commerce de gros d'autres machines et équipements de bureau"
+    "id": "46.66",
+    "label": "Commerce de gros d'autres machines et équipements de bureau"
   },
   {
-    "Code": "46.69",
-    "Libellé": "Commerce de gros d'autres machines et équipements"
+    "id": "46.69",
+    "label": "Commerce de gros d'autres machines et équipements"
   },
   {
-    "Code": "46.71",
-    "Libellé": "Commerce de gros de combustibles et de produits annexes"
+    "id": "46.71",
+    "label": "Commerce de gros de combustibles et de produits annexes"
   },
   {
-    "Code": "46.72",
-    "Libellé": "Commerce de gros de minerais et métaux"
+    "id": "46.72",
+    "label": "Commerce de gros de minerais et métaux"
   },
   {
-    "Code": "46.73",
-    "Libellé": "Commerce de gros de bois, de matériaux de construction et d'appareils sanitaires"
+    "id": "46.73",
+    "label": "Commerce de gros de bois, de matériaux de construction et d'appareils sanitaires"
   },
   {
-    "Code": "46.74",
-    "Libellé": "Commerce de gros de quincaillerie et fournitures pour plomberie et chauffage"
+    "id": "46.74",
+    "label": "Commerce de gros de quincaillerie et fournitures pour plomberie et chauffage"
   },
   {
-    "Code": "46.75",
-    "Libellé": "Commerce de gros de produits chimiques"
+    "id": "46.75",
+    "label": "Commerce de gros de produits chimiques"
   },
   {
-    "Code": "46.76",
-    "Libellé": "Commerce de gros d'autres produits intermédiaires"
+    "id": "46.76",
+    "label": "Commerce de gros d'autres produits intermédiaires"
   },
   {
-    "Code": "46.77",
-    "Libellé": "Commerce de gros de déchets et débris"
+    "id": "46.77",
+    "label": "Commerce de gros de déchets et débris"
   },
   {
-    "Code": "46.90",
-    "Libellé": "Commerce de gros non spécialisé"
+    "id": "46.90",
+    "label": "Commerce de gros non spécialisé"
   },
   {
-    "Code": "47.11",
-    "Libellé": "Commerce de détail en magasin non spécialisé à prédominance alimentaire"
+    "id": "47.11",
+    "label": "Commerce de détail en magasin non spécialisé à prédominance alimentaire"
   },
   {
-    "Code": "47.19",
-    "Libellé": "Autre commerce de détail en magasin non spécialisé"
+    "id": "47.19",
+    "label": "Autre commerce de détail en magasin non spécialisé"
   },
   {
-    "Code": "47.21",
-    "Libellé": "Commerce de détail de fruits et légumes en magasin spécialisé"
+    "id": "47.21",
+    "label": "Commerce de détail de fruits et légumes en magasin spécialisé"
   },
   {
-    "Code": "47.22",
-    "Libellé": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
+    "id": "47.22",
+    "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
   },
   {
-    "Code": "47.23",
-    "Libellé": "Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé"
+    "id": "47.23",
+    "label": "Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé"
   },
   {
-    "Code": "47.24",
-    "Libellé": "Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé"
+    "id": "47.24",
+    "label": "Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé"
   },
   {
-    "Code": "47.25",
-    "Libellé": "Commerce de détail de boissons en magasin spécialisé"
+    "id": "47.25",
+    "label": "Commerce de détail de boissons en magasin spécialisé"
   },
   {
-    "Code": "47.26",
-    "Libellé": "Commerce de détail de produits à base de tabac en magasin spécialisé"
+    "id": "47.26",
+    "label": "Commerce de détail de produits à base de tabac en magasin spécialisé"
   },
   {
-    "Code": "47.29",
-    "Libellé": "Autres commerces de détail alimentaires en magasin spécialisé"
+    "id": "47.29",
+    "label": "Autres commerces de détail alimentaires en magasin spécialisé"
   },
   {
-    "Code": "47.30",
-    "Libellé": "Commerce de détail de carburants en magasin spécialisé"
+    "id": "47.30",
+    "label": "Commerce de détail de carburants en magasin spécialisé"
   },
   {
-    "Code": "47.41",
-    "Libellé": "Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé"
+    "id": "47.41",
+    "label": "Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé"
   },
   {
-    "Code": "47.42",
-    "Libellé": "Commerce de détail de matériels de télécommunication en magasin spécialisé"
+    "id": "47.42",
+    "label": "Commerce de détail de matériels de télécommunication en magasin spécialisé"
   },
   {
-    "Code": "47.43",
-    "Libellé": "Commerce de détail de matériels audio/vidéo en magasin spécialisé"
+    "id": "47.43",
+    "label": "Commerce de détail de matériels audio/vidéo en magasin spécialisé"
   },
   {
-    "Code": "47.51",
-    "Libellé": "Commerce de détail de textiles en magasin spécialisé"
+    "id": "47.51",
+    "label": "Commerce de détail de textiles en magasin spécialisé"
   },
   {
-    "Code": "47.52",
-    "Libellé": "Commerce de détail de quincaillerie, peintures et verres en magasin spécialisé"
+    "id": "47.52",
+    "label": "Commerce de détail de quincaillerie, peintures et verres en magasin spécialisé"
   },
   {
-    "Code": "47.53",
-    "Libellé": "Commerce de détail de tapis, moquettes et revêtements de murs et de sols en magasin spécialisé"
+    "id": "47.53",
+    "label": "Commerce de détail de tapis, moquettes et revêtements de murs et de sols en magasin spécialisé"
   },
   {
-    "Code": "47.54",
-    "Libellé": "Commerce de détail d'appareils électroménagers en magasin spécialisé"
+    "id": "47.54",
+    "label": "Commerce de détail d'appareils électroménagers en magasin spécialisé"
   },
   {
-    "Code": "47.59",
-    "Libellé": "Commerce de détail de meubles, appareils d'éclairage et autres articles de ménage en magasin spécialisé"
+    "id": "47.59",
+    "label": "Commerce de détail de meubles, appareils d'éclairage et autres articles de ménage en magasin spécialisé"
   },
   {
-    "Code": "47.61",
-    "Libellé": "Commerce de détail de livres en magasin spécialisé"
+    "id": "47.61",
+    "label": "Commerce de détail de livres en magasin spécialisé"
   },
   {
-    "Code": "47.62",
-    "Libellé": "Commerce de détail de journaux et papeterie en magasin spécialisé"
+    "id": "47.62",
+    "label": "Commerce de détail de journaux et papeterie en magasin spécialisé"
   },
   {
-    "Code": "47.63",
-    "Libellé": "Commerce de détail d'enregistrements musicaux et vidéo en magasin spécialisé"
+    "id": "47.63",
+    "label": "Commerce de détail d'enregistrements musicaux et vidéo en magasin spécialisé"
   },
   {
-    "Code": "47.64",
-    "Libellé": "Commerce de détail d'articles de sport en magasin spécialisé"
+    "id": "47.64",
+    "label": "Commerce de détail d'articles de sport en magasin spécialisé"
   },
   {
-    "Code": "47.65",
-    "Libellé": "Commerce de détail de jeux et jouets en magasin spécialisé"
+    "id": "47.65",
+    "label": "Commerce de détail de jeux et jouets en magasin spécialisé"
   },
   {
-    "Code": "47.71",
-    "Libellé": "Commerce de détail d'habillement en magasin spécialisé"
+    "id": "47.71",
+    "label": "Commerce de détail d'habillement en magasin spécialisé"
   },
   {
-    "Code": "47.72",
-    "Libellé": "Commerce de détail de chaussures et d'articles en cuir en magasin spécialisé"
+    "id": "47.72",
+    "label": "Commerce de détail de chaussures et d'articles en cuir en magasin spécialisé"
   },
   {
-    "Code": "47.73",
-    "Libellé": "Commerce de détail de produits pharmaceutiques en magasin spécialisé"
+    "id": "47.73",
+    "label": "Commerce de détail de produits pharmaceutiques en magasin spécialisé"
   },
   {
-    "Code": "47.74",
-    "Libellé": "Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé"
+    "id": "47.74",
+    "label": "Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé"
   },
   {
-    "Code": "47.75",
-    "Libellé": "Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé"
+    "id": "47.75",
+    "label": "Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé"
   },
   {
-    "Code": "47.76",
-    "Libellé": "Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé"
+    "id": "47.76",
+    "label": "Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé"
   },
   {
-    "Code": "47.77",
-    "Libellé": "Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé"
+    "id": "47.77",
+    "label": "Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé"
   },
   {
-    "Code": "47.78",
-    "Libellé": "Autre commerce de détail de biens neufs en magasin spécialisé"
+    "id": "47.78",
+    "label": "Autre commerce de détail de biens neufs en magasin spécialisé"
   },
   {
-    "Code": "47.79",
-    "Libellé": "Commerce de détail de biens d'occasion en magasin"
+    "id": "47.79",
+    "label": "Commerce de détail de biens d'occasion en magasin"
   },
   {
-    "Code": "47.81",
-    "Libellé": "Commerce de détail alimentaire sur éventaires et marchés"
+    "id": "47.81",
+    "label": "Commerce de détail alimentaire sur éventaires et marchés"
   },
   {
-    "Code": "47.82",
-    "Libellé": "Commerce de détail de textiles, d'habillement et de chaussures sur éventaires et marchés"
+    "id": "47.82",
+    "label": "Commerce de détail de textiles, d'habillement et de chaussures sur éventaires et marchés"
   },
   {
-    "Code": "47.89",
-    "Libellé": "Autres commerces de détail sur éventaires et marchés"
+    "id": "47.89",
+    "label": "Autres commerces de détail sur éventaires et marchés"
   },
   {
-    "Code": "47.91",
-    "Libellé": "Vente à distance"
+    "id": "47.91",
+    "label": "Vente à distance"
   },
   {
-    "Code": "47.99",
-    "Libellé": "Autres commerces de détail hors magasin, éventaires ou marchés"
+    "id": "47.99",
+    "label": "Autres commerces de détail hors magasin, éventaires ou marchés"
   },
   {
-    "Code": "49.10",
-    "Libellé": "Transport ferroviaire interurbain de voyageurs"
+    "id": "49.10",
+    "label": "Transport ferroviaire interurbain de voyageurs"
   },
   {
-    "Code": "49.20",
-    "Libellé": "Transports ferroviaires de fret"
+    "id": "49.20",
+    "label": "Transports ferroviaires de fret"
   },
   {
-    "Code": "49.31",
-    "Libellé": "Transports urbains et suburbains de voyageurs"
+    "id": "49.31",
+    "label": "Transports urbains et suburbains de voyageurs"
   },
   {
-    "Code": "49.32",
-    "Libellé": "Transports de voyageurs par taxis"
+    "id": "49.32",
+    "label": "Transports de voyageurs par taxis"
   },
   {
-    "Code": "49.39",
-    "Libellé": "Autres transports terrestres de voyageurs n.c.a."
+    "id": "49.39",
+    "label": "Autres transports terrestres de voyageurs n.c.a."
   },
   {
-    "Code": "49.41",
-    "Libellé": "Transports routiers de fret"
+    "id": "49.41",
+    "label": "Transports routiers de fret"
   },
   {
-    "Code": "49.42",
-    "Libellé": "Services de déménagement"
+    "id": "49.42",
+    "label": "Services de déménagement"
   },
   {
-    "Code": "49.50",
-    "Libellé": "Transports par conduites"
+    "id": "49.50",
+    "label": "Transports par conduites"
   },
   {
-    "Code": "50.10",
-    "Libellé": "Transports maritimes et côtiers de passagers"
+    "id": "50.10",
+    "label": "Transports maritimes et côtiers de passagers"
   },
   {
-    "Code": "50.20",
-    "Libellé": "Transports maritimes et côtiers de fret"
+    "id": "50.20",
+    "label": "Transports maritimes et côtiers de fret"
   },
   {
-    "Code": "50.30",
-    "Libellé": "Transports fluviaux de passagers"
+    "id": "50.30",
+    "label": "Transports fluviaux de passagers"
   },
   {
-    "Code": "50.40",
-    "Libellé": "Transports fluviaux de fret"
+    "id": "50.40",
+    "label": "Transports fluviaux de fret"
   },
   {
-    "Code": "51.10",
-    "Libellé": "Transports aériens de passagers"
+    "id": "51.10",
+    "label": "Transports aériens de passagers"
   },
   {
-    "Code": "51.21",
-    "Libellé": "Transports aériens de fret"
+    "id": "51.21",
+    "label": "Transports aériens de fret"
   },
   {
-    "Code": "51.22",
-    "Libellé": "Transports spatiaux"
+    "id": "51.22",
+    "label": "Transports spatiaux"
   },
   {
-    "Code": "52.10",
-    "Libellé": "Entreposage et stockage"
+    "id": "52.10",
+    "label": "Entreposage et stockage"
   },
   {
-    "Code": "52.21",
-    "Libellé": "Services auxiliaires des transports terrestres"
+    "id": "52.21",
+    "label": "Services auxiliaires des transports terrestres"
   },
   {
-    "Code": "52.22",
-    "Libellé": "Services auxiliaires des transports par eau"
+    "id": "52.22",
+    "label": "Services auxiliaires des transports par eau"
   },
   {
-    "Code": "52.23",
-    "Libellé": "Services auxiliaires des transports aériens"
+    "id": "52.23",
+    "label": "Services auxiliaires des transports aériens"
   },
   {
-    "Code": "52.24",
-    "Libellé": "Manutention"
+    "id": "52.24",
+    "label": "Manutention"
   },
   {
-    "Code": "52.29",
-    "Libellé": "Autres services auxiliaires des transports"
+    "id": "52.29",
+    "label": "Autres services auxiliaires des transports"
   },
   {
-    "Code": "53.10",
-    "Libellé": "Activités de poste dans le cadre d'une obligation de service universel"
+    "id": "53.10",
+    "label": "Activités de poste dans le cadre d'une obligation de service universel"
   },
   {
-    "Code": "53.20",
-    "Libellé": "Autres activités de poste et de courrier"
+    "id": "53.20",
+    "label": "Autres activités de poste et de courrier"
   },
   {
-    "Code": "55.10",
-    "Libellé": "Hôtels et hébergement similaire"
+    "id": "55.10",
+    "label": "Hôtels et hébergement similaire"
   },
   {
-    "Code": "55.20",
-    "Libellé": "Hébergement touristique et autre hébergement de courte durée"
+    "id": "55.20",
+    "label": "Hébergement touristique et autre hébergement de courte durée"
   },
   {
-    "Code": "55.30",
-    "Libellé": "Terrains de camping et parcs pour caravanes ou véhicules de loisirs"
+    "id": "55.30",
+    "label": "Terrains de camping et parcs pour caravanes ou véhicules de loisirs"
   },
   {
-    "Code": "55.90",
-    "Libellé": "Autres hébergements"
+    "id": "55.90",
+    "label": "Autres hébergements"
   },
   {
-    "Code": "56.10",
-    "Libellé": "Restaurants et services de restauration mobile"
+    "id": "56.10",
+    "label": "Restaurants et services de restauration mobile"
   },
   {
-    "Code": "56.21",
-    "Libellé": "Services des traiteurs"
+    "id": "56.21",
+    "label": "Services des traiteurs"
   },
   {
-    "Code": "56.29",
-    "Libellé": "Autres services de restauration"
+    "id": "56.29",
+    "label": "Autres services de restauration"
   },
   {
-    "Code": "56.30",
-    "Libellé": "Débits de boissons"
+    "id": "56.30",
+    "label": "Débits de boissons"
   },
   {
-    "Code": "58.11",
-    "Libellé": "Édition de livres"
+    "id": "58.11",
+    "label": "Édition de livres"
   },
   {
-    "Code": "58.12",
-    "Libellé": "Édition de répertoires et de fichiers d'adresses"
+    "id": "58.12",
+    "label": "Édition de répertoires et de fichiers d'adresses"
   },
   {
-    "Code": "58.13",
-    "Libellé": "Édition de journaux"
+    "id": "58.13",
+    "label": "Édition de journaux"
   },
   {
-    "Code": "58.14",
-    "Libellé": "Édition de revues et périodiques"
+    "id": "58.14",
+    "label": "Édition de revues et périodiques"
   },
   {
-    "Code": "58.19",
-    "Libellé": "Autres activités d'édition"
+    "id": "58.19",
+    "label": "Autres activités d'édition"
   },
   {
-    "Code": "58.21",
-    "Libellé": "Édition de jeux électroniques"
+    "id": "58.21",
+    "label": "Édition de jeux électroniques"
   },
   {
-    "Code": "58.29",
-    "Libellé": "Édition d'autres logiciels"
+    "id": "58.29",
+    "label": "Édition d'autres logiciels"
   },
   {
-    "Code": "59.11",
-    "Libellé": "Production de films cinématographiques, de vidéo et de programmes de télévision"
+    "id": "59.11",
+    "label": "Production de films cinématographiques, de vidéo et de programmes de télévision"
   },
   {
-    "Code": "59.12",
-    "Libellé": "Post-production de films cinématographiques, de vidéo et de programmes de télévision"
+    "id": "59.12",
+    "label": "Post-production de films cinématographiques, de vidéo et de programmes de télévision"
   },
   {
-    "Code": "59.13",
-    "Libellé": "Distribution de films cinématographiques, de vidéo et de programmes de télévision"
+    "id": "59.13",
+    "label": "Distribution de films cinématographiques, de vidéo et de programmes de télévision"
   },
   {
-    "Code": "59.14",
-    "Libellé": "Projection de films cinématographiques"
+    "id": "59.14",
+    "label": "Projection de films cinématographiques"
   },
   {
-    "Code": "59.20",
-    "Libellé": "Enregistrement sonore et édition musicale"
+    "id": "59.20",
+    "label": "Enregistrement sonore et édition musicale"
   },
   {
-    "Code": "60.10",
-    "Libellé": "Édition et diffusion de programmes radio"
+    "id": "60.10",
+    "label": "Édition et diffusion de programmes radio"
   },
   {
-    "Code": "60.20",
-    "Libellé": "Programmation de télévision et télédiffusion"
+    "id": "60.20",
+    "label": "Programmation de télévision et télédiffusion"
   },
   {
-    "Code": "61.10",
-    "Libellé": "Télécommunications filaires"
+    "id": "61.10",
+    "label": "Télécommunications filaires"
   },
   {
-    "Code": "61.20",
-    "Libellé": "Télécommunications sans fil"
+    "id": "61.20",
+    "label": "Télécommunications sans fil"
   },
   {
-    "Code": "61.30",
-    "Libellé": "Télécommunications par satellite"
+    "id": "61.30",
+    "label": "Télécommunications par satellite"
   },
   {
-    "Code": "61.90",
-    "Libellé": "Autres activités de télécommunication"
+    "id": "61.90",
+    "label": "Autres activités de télécommunication"
   },
   {
-    "Code": "62.01",
-    "Libellé": "Programmation informatique"
+    "id": "62.01",
+    "label": "Programmation informatique"
   },
   {
-    "Code": "62.02",
-    "Libellé": "Conseil informatique"
+    "id": "62.02",
+    "label": "Conseil informatique"
   },
   {
-    "Code": "62.03",
-    "Libellé": "Gestion d'installations informatiques"
+    "id": "62.03",
+    "label": "Gestion d'installations informatiques"
   },
   {
-    "Code": "62.09",
-    "Libellé": "Autres activités informatiques"
+    "id": "62.09",
+    "label": "Autres activités informatiques"
   },
   {
-    "Code": "63.11",
-    "Libellé": "Traitement de données, hébergement et activités connexes"
+    "id": "63.11",
+    "label": "Traitement de données, hébergement et activités connexes"
   },
   {
-    "Code": "63.12",
-    "Libellé": "Portails Internet"
+    "id": "63.12",
+    "label": "Portails Internet"
   },
   {
-    "Code": "63.91",
-    "Libellé": "Activités des agences de presse"
+    "id": "63.91",
+    "label": "Activités des agences de presse"
   },
   {
-    "Code": "63.99",
-    "Libellé": "Autres services d'information n.c.a."
+    "id": "63.99",
+    "label": "Autres services d'information n.c.a."
   },
   {
-    "Code": "64.11",
-    "Libellé": "Activités de banque centrale"
+    "id": "64.11",
+    "label": "Activités de banque centrale"
   },
   {
-    "Code": "64.19",
-    "Libellé": "Autres intermédiations monétaires"
+    "id": "64.19",
+    "label": "Autres intermédiations monétaires"
   },
   {
-    "Code": "64.20",
-    "Libellé": "Activités des sociétés holding"
+    "id": "64.20",
+    "label": "Activités des sociétés holding"
   },
   {
-    "Code": "64.30",
-    "Libellé": "Fonds de placement et entités financières similaires"
+    "id": "64.30",
+    "label": "Fonds de placement et entités financières similaires"
   },
   {
-    "Code": "64.91",
-    "Libellé": "Crédit-bail"
+    "id": "64.91",
+    "label": "Crédit-bail"
   },
   {
-    "Code": "64.92",
-    "Libellé": "Autre distribution de crédit"
+    "id": "64.92",
+    "label": "Autre distribution de crédit"
   },
   {
-    "Code": "64.99",
-    "Libellé": "Autres activités des services financiers, hors assurance et caisses de retraite, n.c.a."
+    "id": "64.99",
+    "label": "Autres activités des services financiers, hors assurance et caisses de retraite, n.c.a."
   },
   {
-    "Code": "65.11",
-    "Libellé": "Assurance vie"
+    "id": "65.11",
+    "label": "Assurance vie"
   },
   {
-    "Code": "65.12",
-    "Libellé": "Autres assurances"
+    "id": "65.12",
+    "label": "Autres assurances"
   },
   {
-    "Code": "65.20",
-    "Libellé": "Réassurance"
+    "id": "65.20",
+    "label": "Réassurance"
   },
   {
-    "Code": "65.30",
-    "Libellé": "Caisses de retraite"
+    "id": "65.30",
+    "label": "Caisses de retraite"
   },
   {
-    "Code": "66.11",
-    "Libellé": "Administration de marchés financiers"
+    "id": "66.11",
+    "label": "Administration de marchés financiers"
   },
   {
-    "Code": "66.12",
-    "Libellé": "Courtage de valeurs mobilières et de marchandises"
+    "id": "66.12",
+    "label": "Courtage de valeurs mobilières et de marchandises"
   },
   {
-    "Code": "66.19",
-    "Libellé": "Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite"
+    "id": "66.19",
+    "label": "Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite"
   },
   {
-    "Code": "66.21",
-    "Libellé": "Évaluation des risques et dommages"
+    "id": "66.21",
+    "label": "Évaluation des risques et dommages"
   },
   {
-    "Code": "66.22",
-    "Libellé": "Activités des agents et courtiers d'assurances"
+    "id": "66.22",
+    "label": "Activités des agents et courtiers d'assurances"
   },
   {
-    "Code": "66.29",
-    "Libellé": "Autres activités auxiliaires d'assurance et de caisses de retraite"
+    "id": "66.29",
+    "label": "Autres activités auxiliaires d'assurance et de caisses de retraite"
   },
   {
-    "Code": "66.30",
-    "Libellé": "Gestion de fonds"
+    "id": "66.30",
+    "label": "Gestion de fonds"
   },
   {
-    "Code": "68.10",
-    "Libellé": "Activités des marchands de biens immobiliers"
+    "id": "68.10",
+    "label": "Activités des marchands de biens immobiliers"
   },
   {
-    "Code": "68.20",
-    "Libellé": "Location et exploitation de biens immobiliers propres ou loués"
+    "id": "68.20",
+    "label": "Location et exploitation de biens immobiliers propres ou loués"
   },
   {
-    "Code": "68.31",
-    "Libellé": "Agences immobilières"
+    "id": "68.31",
+    "label": "Agences immobilières"
   },
   {
-    "Code": "68.32",
-    "Libellé": "Administration de biens immobiliers"
+    "id": "68.32",
+    "label": "Administration de biens immobiliers"
   },
   {
-    "Code": "69.10",
-    "Libellé": "Activités juridiques"
+    "id": "69.10",
+    "label": "Activités juridiques"
   },
   {
-    "Code": "69.20",
-    "Libellé": "Activités comptables"
+    "id": "69.20",
+    "label": "Activités comptables"
   },
   {
-    "Code": "70.10",
-    "Libellé": "Activités des sièges sociaux"
+    "id": "70.10",
+    "label": "Activités des sièges sociaux"
   },
   {
-    "Code": "70.21",
-    "Libellé": "Conseil en relations publiques et communication"
+    "id": "70.21",
+    "label": "Conseil en relations publiques et communication"
   },
   {
-    "Code": "70.22",
-    "Libellé": "Conseil pour les affaires et autres conseils de gestion"
+    "id": "70.22",
+    "label": "Conseil pour les affaires et autres conseils de gestion"
   },
   {
-    "Code": "71.11",
-    "Libellé": "Activités d'architecture"
+    "id": "71.11",
+    "label": "Activités d'architecture"
   },
   {
-    "Code": "71.12",
-    "Libellé": "Activités d'ingénierie"
+    "id": "71.12",
+    "label": "Activités d'ingénierie"
   },
   {
-    "Code": "71.20",
-    "Libellé": "Activités de contrôle et analyses techniques"
+    "id": "71.20",
+    "label": "Activités de contrôle et analyses techniques"
   },
   {
-    "Code": "72.11",
-    "Libellé": "Recherche-développement en biotechnologie"
+    "id": "72.11",
+    "label": "Recherche-développement en biotechnologie"
   },
   {
-    "Code": "72.19",
-    "Libellé": "Recherche-développement en autres sciences physiques et naturelles"
+    "id": "72.19",
+    "label": "Recherche-développement en autres sciences physiques et naturelles"
   },
   {
-    "Code": "72.20",
-    "Libellé": "Recherche-développement en sciences humaines et sociales"
+    "id": "72.20",
+    "label": "Recherche-développement en sciences humaines et sociales"
   },
   {
-    "Code": "73.11",
-    "Libellé": "Activités des agences de publicité"
+    "id": "73.11",
+    "label": "Activités des agences de publicité"
   },
   {
-    "Code": "73.12",
-    "Libellé": "Régie publicitaire de médias"
+    "id": "73.12",
+    "label": "Régie publicitaire de médias"
   },
   {
-    "Code": "73.20",
-    "Libellé": "Études de marché et sondages"
+    "id": "73.20",
+    "label": "Études de marché et sondages"
   },
   {
-    "Code": "74.10",
-    "Libellé": "Activités spécialisées de design"
+    "id": "74.10",
+    "label": "Activités spécialisées de design"
   },
   {
-    "Code": "74.20",
-    "Libellé": "Activités photographiques"
+    "id": "74.20",
+    "label": "Activités photographiques"
   },
   {
-    "Code": "74.30",
-    "Libellé": "Traduction et interprétation"
+    "id": "74.30",
+    "label": "Traduction et interprétation"
   },
   {
-    "Code": "74.90",
-    "Libellé": "Autres activités spécialisées, scientifiques et techniques n.c.a."
+    "id": "74.90",
+    "label": "Autres activités spécialisées, scientifiques et techniques n.c.a."
   },
   {
-    "Code": "75.00",
-    "Libellé": "Activités vétérinaires"
+    "id": "75.00",
+    "label": "Activités vétérinaires"
   },
   {
-    "Code": "77.11",
-    "Libellé": "Location et location-bail de voitures et de véhicules automobiles légers"
+    "id": "77.11",
+    "label": "Location et location-bail de voitures et de véhicules automobiles légers"
   },
   {
-    "Code": "77.12",
-    "Libellé": "Location et location-bail de camions"
+    "id": "77.12",
+    "label": "Location et location-bail de camions"
   },
   {
-    "Code": "77.21",
-    "Libellé": "Location et location-bail d'articles de loisirs et de sport"
+    "id": "77.21",
+    "label": "Location et location-bail d'articles de loisirs et de sport"
   },
   {
-    "Code": "77.22",
-    "Libellé": "Location de vidéocassettes et disques vidéo"
+    "id": "77.22",
+    "label": "Location de vidéocassettes et disques vidéo"
   },
   {
-    "Code": "77.29",
-    "Libellé": "Location et location-bail d'autres biens personnels et domestiques"
+    "id": "77.29",
+    "label": "Location et location-bail d'autres biens personnels et domestiques"
   },
   {
-    "Code": "77.31",
-    "Libellé": "Location et location-bail de machines et équipements agricoles"
+    "id": "77.31",
+    "label": "Location et location-bail de machines et équipements agricoles"
   },
   {
-    "Code": "77.32",
-    "Libellé": "Location et location-bail de machines et équipements pour la construction"
+    "id": "77.32",
+    "label": "Location et location-bail de machines et équipements pour la construction"
   },
   {
-    "Code": "77.33",
-    "Libellé": "Location et location-bail de machines de bureau et de matériel informatique"
+    "id": "77.33",
+    "label": "Location et location-bail de machines de bureau et de matériel informatique"
   },
   {
-    "Code": "77.34",
-    "Libellé": "Location et location-bail de matériels de transport par eau"
+    "id": "77.34",
+    "label": "Location et location-bail de matériels de transport par eau"
   },
   {
-    "Code": "77.35",
-    "Libellé": "Location et location-bail de matériels de transport aérien"
+    "id": "77.35",
+    "label": "Location et location-bail de matériels de transport aérien"
   },
   {
-    "Code": "77.39",
-    "Libellé": "Location et location-bail d'autres machines, équipements et biens matériels n.c.a."
+    "id": "77.39",
+    "label": "Location et location-bail d'autres machines, équipements et biens matériels n.c.a."
   },
   {
-    "Code": "77.40",
-    "Libellé": "Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright"
+    "id": "77.40",
+    "label": "Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright"
   },
   {
-    "Code": "78.10",
-    "Libellé": "Activités des agences de placement de main-d'œuvre"
+    "id": "78.10",
+    "label": "Activités des agences de placement de main-d'œuvre"
   },
   {
-    "Code": "78.20",
-    "Libellé": "Activités des agences de travail temporaire"
+    "id": "78.20",
+    "label": "Activités des agences de travail temporaire"
   },
   {
-    "Code": "78.30",
-    "Libellé": "Autre mise à disposition de ressources humaines"
+    "id": "78.30",
+    "label": "Autre mise à disposition de ressources humaines"
   },
   {
-    "Code": "79.11",
-    "Libellé": "Activités des agences de voyage"
+    "id": "79.11",
+    "label": "Activités des agences de voyage"
   },
   {
-    "Code": "79.12",
-    "Libellé": "Activités des voyagistes"
+    "id": "79.12",
+    "label": "Activités des voyagistes"
   },
   {
-    "Code": "79.90",
-    "Libellé": "Autres services de réservation et activités connexes"
+    "id": "79.90",
+    "label": "Autres services de réservation et activités connexes"
   },
   {
-    "Code": "80.10",
-    "Libellé": "Activités de sécurité privée"
+    "id": "80.10",
+    "label": "Activités de sécurité privée"
   },
   {
-    "Code": "80.20",
-    "Libellé": "Activités liées aux systèmes de sécurité"
+    "id": "80.20",
+    "label": "Activités liées aux systèmes de sécurité"
   },
   {
-    "Code": "80.30",
-    "Libellé": "Activités d'enquête"
+    "id": "80.30",
+    "label": "Activités d'enquête"
   },
   {
-    "Code": "81.10",
-    "Libellé": "Activités combinées de soutien lié aux bâtiments"
+    "id": "81.10",
+    "label": "Activités combinées de soutien lié aux bâtiments"
   },
   {
-    "Code": "81.21",
-    "Libellé": "Nettoyage courant des bâtiments"
+    "id": "81.21",
+    "label": "Nettoyage courant des bâtiments"
   },
   {
-    "Code": "81.22",
-    "Libellé": "Autres activités de nettoyage des bâtiments et nettoyage industriel"
+    "id": "81.22",
+    "label": "Autres activités de nettoyage des bâtiments et nettoyage industriel"
   },
   {
-    "Code": "81.29",
-    "Libellé": "Autres activités de nettoyage"
+    "id": "81.29",
+    "label": "Autres activités de nettoyage"
   },
   {
-    "Code": "81.30",
-    "Libellé": "Services d'aménagement paysager"
+    "id": "81.30",
+    "label": "Services d'aménagement paysager"
   },
   {
-    "Code": "82.11",
-    "Libellé": "Services administratifs combinés de bureau"
+    "id": "82.11",
+    "label": "Services administratifs combinés de bureau"
   },
   {
-    "Code": "82.19",
-    "Libellé": "Photocopie, préparation de documents et autres activités spécialisées de soutien de bureau"
+    "id": "82.19",
+    "label": "Photocopie, préparation de documents et autres activités spécialisées de soutien de bureau"
   },
   {
-    "Code": "82.20",
-    "Libellé": "Activités de centres d'appels"
+    "id": "82.20",
+    "label": "Activités de centres d'appels"
   },
   {
-    "Code": "82.30",
-    "Libellé": "Organisation de salons professionnels et congrès"
+    "id": "82.30",
+    "label": "Organisation de salons professionnels et congrès"
   },
   {
-    "Code": "82.91",
-    "Libellé": "Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle"
+    "id": "82.91",
+    "label": "Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle"
   },
   {
-    "Code": "82.92",
-    "Libellé": "Activités de conditionnement"
+    "id": "82.92",
+    "label": "Activités de conditionnement"
   },
   {
-    "Code": "82.99",
-    "Libellé": "Autres activités de soutien aux entreprises n.c.a."
+    "id": "82.99",
+    "label": "Autres activités de soutien aux entreprises n.c.a."
   },
   {
-    "Code": "84.11",
-    "Libellé": "Administration publique générale"
+    "id": "84.11",
+    "label": "Administration publique générale"
   },
   {
-    "Code": "84.12",
-    "Libellé": "Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale"
+    "id": "84.12",
+    "label": "Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale"
   },
   {
-    "Code": "84.13",
-    "Libellé": "Administration publique (tutelle) des activités économiques"
+    "id": "84.13",
+    "label": "Administration publique (tutelle) des activités économiques"
   },
   {
-    "Code": "84.21",
-    "Libellé": "Affaires étrangères"
+    "id": "84.21",
+    "label": "Affaires étrangères"
   },
   {
-    "Code": "84.22",
-    "Libellé": "Défense"
+    "id": "84.22",
+    "label": "Défense"
   },
   {
-    "Code": "84.23",
-    "Libellé": "Justice"
+    "id": "84.23",
+    "label": "Justice"
   },
   {
-    "Code": "84.24",
-    "Libellé": "Activités d'ordre public et de sécurité"
+    "id": "84.24",
+    "label": "Activités d'ordre public et de sécurité"
   },
   {
-    "Code": "84.25",
-    "Libellé": "Services du feu et de secours"
+    "id": "84.25",
+    "label": "Services du feu et de secours"
   },
   {
-    "Code": "84.30",
-    "Libellé": "Sécurité sociale obligatoire"
+    "id": "84.30",
+    "label": "Sécurité sociale obligatoire"
   },
   {
-    "Code": "85.10",
-    "Libellé": "Enseignement pré-primaire"
+    "id": "85.10",
+    "label": "Enseignement pré-primaire"
   },
   {
-    "Code": "85.20",
-    "Libellé": "Enseignement primaire"
+    "id": "85.20",
+    "label": "Enseignement primaire"
   },
   {
-    "Code": "85.31",
-    "Libellé": "Enseignement secondaire général"
+    "id": "85.31",
+    "label": "Enseignement secondaire général"
   },
   {
-    "Code": "85.32",
-    "Libellé": "Enseignement secondaire technique ou professionnel"
+    "id": "85.32",
+    "label": "Enseignement secondaire technique ou professionnel"
   },
   {
-    "Code": "85.41",
-    "Libellé": "Enseignement post-secondaire non supérieur"
+    "id": "85.41",
+    "label": "Enseignement post-secondaire non supérieur"
   },
   {
-    "Code": "85.42",
-    "Libellé": "Enseignement supérieur"
+    "id": "85.42",
+    "label": "Enseignement supérieur"
   },
   {
-    "Code": "85.51",
-    "Libellé": "Enseignement de disciplines sportives et d'activités de loisirs"
+    "id": "85.51",
+    "label": "Enseignement de disciplines sportives et d'activités de loisirs"
   },
   {
-    "Code": "85.52",
-    "Libellé": "Enseignement culturel"
+    "id": "85.52",
+    "label": "Enseignement culturel"
   },
   {
-    "Code": "85.53",
-    "Libellé": "Enseignement de la conduite"
+    "id": "85.53",
+    "label": "Enseignement de la conduite"
   },
   {
-    "Code": "85.59",
-    "Libellé": "Enseignements divers"
+    "id": "85.59",
+    "label": "Enseignements divers"
   },
   {
-    "Code": "85.60",
-    "Libellé": "Activités de soutien à l'enseignement"
+    "id": "85.60",
+    "label": "Activités de soutien à l'enseignement"
   },
   {
-    "Code": "86.10",
-    "Libellé": "Activités hospitalières"
+    "id": "86.10",
+    "label": "Activités hospitalières"
   },
   {
-    "Code": "86.21",
-    "Libellé": "Activité des médecins généralistes"
+    "id": "86.21",
+    "label": "Activité des médecins généralistes"
   },
   {
-    "Code": "86.22",
-    "Libellé": "Activité des médecins spécialistes"
+    "id": "86.22",
+    "label": "Activité des médecins spécialistes"
   },
   {
-    "Code": "86.23",
-    "Libellé": "Pratique dentaire"
+    "id": "86.23",
+    "label": "Pratique dentaire"
   },
   {
-    "Code": "86.90",
-    "Libellé": "Autres activités pour la santé humaine"
+    "id": "86.90",
+    "label": "Autres activités pour la santé humaine"
   },
   {
-    "Code": "87.10",
-    "Libellé": "Hébergement médicalisé"
+    "id": "87.10",
+    "label": "Hébergement médicalisé"
   },
   {
-    "Code": "87.20",
-    "Libellé": "Hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes"
+    "id": "87.20",
+    "label": "Hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes"
   },
   {
-    "Code": "87.30",
-    "Libellé": "Hébergement social pour personnes âgées ou handicapées physiques"
+    "id": "87.30",
+    "label": "Hébergement social pour personnes âgées ou handicapées physiques"
   },
   {
-    "Code": "87.90",
-    "Libellé": "Autres activités d'hébergement social"
+    "id": "87.90",
+    "label": "Autres activités d'hébergement social"
   },
   {
-    "Code": "88.10",
-    "Libellé": "Action sociale sans hébergement pour personnes âgées et pour personnes handicapées"
+    "id": "88.10",
+    "label": "Action sociale sans hébergement pour personnes âgées et pour personnes handicapées"
   },
   {
-    "Code": "88.91",
-    "Libellé": "Action sociale sans hébergement pour jeunes enfants"
+    "id": "88.91",
+    "label": "Action sociale sans hébergement pour jeunes enfants"
   },
   {
-    "Code": "88.99",
-    "Libellé": "Autre action sociale sans hébergement n.c.a."
+    "id": "88.99",
+    "label": "Autre action sociale sans hébergement n.c.a."
   },
   {
-    "Code": "90.01",
-    "Libellé": "Arts du spectacle vivant"
+    "id": "90.01",
+    "label": "Arts du spectacle vivant"
   },
   {
-    "Code": "90.02",
-    "Libellé": "Activités de soutien au spectacle vivant"
+    "id": "90.02",
+    "label": "Activités de soutien au spectacle vivant"
   },
   {
-    "Code": "90.03",
-    "Libellé": "Création artistique"
+    "id": "90.03",
+    "label": "Création artistique"
   },
   {
-    "Code": "90.04",
-    "Libellé": "Gestion de salles de spectacles"
+    "id": "90.04",
+    "label": "Gestion de salles de spectacles"
   },
   {
-    "Code": "91.01",
-    "Libellé": "Gestion des bibliothèques et des archives"
+    "id": "91.01",
+    "label": "Gestion des bibliothèques et des archives"
   },
   {
-    "Code": "91.02",
-    "Libellé": "Gestion des musées"
+    "id": "91.02",
+    "label": "Gestion des musées"
   },
   {
-    "Code": "91.03",
-    "Libellé": "Gestion des sites et monuments historiques et des attractions touristiques similaires"
+    "id": "91.03",
+    "label": "Gestion des sites et monuments historiques et des attractions touristiques similaires"
   },
   {
-    "Code": "91.04",
-    "Libellé": "Gestion des jardins botaniques et zoologiques et des réserves naturelles"
+    "id": "91.04",
+    "label": "Gestion des jardins botaniques et zoologiques et des réserves naturelles"
   },
   {
-    "Code": "92.00",
-    "Libellé": "Organisation de jeux de hasard et d'argent"
+    "id": "92.00",
+    "label": "Organisation de jeux de hasard et d'argent"
   },
   {
-    "Code": "93.11",
-    "Libellé": "Gestion d'installations sportives"
+    "id": "93.11",
+    "label": "Gestion d'installations sportives"
   },
   {
-    "Code": "93.12",
-    "Libellé": "Activités de clubs de sports"
+    "id": "93.12",
+    "label": "Activités de clubs de sports"
   },
   {
-    "Code": "93.13",
-    "Libellé": "Activités des centres de culture physique"
+    "id": "93.13",
+    "label": "Activités des centres de culture physique"
   },
   {
-    "Code": "93.19",
-    "Libellé": "Autres activités liées au sport"
+    "id": "93.19",
+    "label": "Autres activités liées au sport"
   },
   {
-    "Code": "93.21",
-    "Libellé": "Activités des parcs d'attractions et parcs à thèmes"
+    "id": "93.21",
+    "label": "Activités des parcs d'attractions et parcs à thèmes"
   },
   {
-    "Code": "93.29",
-    "Libellé": "Autres activités récréatives et de loisirs"
+    "id": "93.29",
+    "label": "Autres activités récréatives et de loisirs"
   },
   {
-    "Code": "94.11",
-    "Libellé": "Activités des organisations patronales et consulaires"
+    "id": "94.11",
+    "label": "Activités des organisations patronales et consulaires"
   },
   {
-    "Code": "94.12",
-    "Libellé": "Activités des organisations professionnelles"
+    "id": "94.12",
+    "label": "Activités des organisations professionnelles"
   },
   {
-    "Code": "94.20",
-    "Libellé": "Activités des syndicats de salariés"
+    "id": "94.20",
+    "label": "Activités des syndicats de salariés"
   },
   {
-    "Code": "94.91",
-    "Libellé": "Activités des organisations religieuses"
+    "id": "94.91",
+    "label": "Activités des organisations religieuses"
   },
   {
-    "Code": "94.92",
-    "Libellé": "Activités des organisations politiques"
+    "id": "94.92",
+    "label": "Activités des organisations politiques"
   },
   {
-    "Code": "94.99",
-    "Libellé": "Activités des organisations associatives n.c.a."
+    "id": "94.99",
+    "label": "Activités des organisations associatives n.c.a."
   },
   {
-    "Code": "95.11",
-    "Libellé": "Réparation d'ordinateurs et d'équipements périphériques"
+    "id": "95.11",
+    "label": "Réparation d'ordinateurs et d'équipements périphériques"
   },
   {
-    "Code": "95.12",
-    "Libellé": "Réparation d'équipements de communication"
+    "id": "95.12",
+    "label": "Réparation d'équipements de communication"
   },
   {
-    "Code": "95.21",
-    "Libellé": "Réparation de produits électroniques grand public"
+    "id": "95.21",
+    "label": "Réparation de produits électroniques grand public"
   },
   {
-    "Code": "95.22",
-    "Libellé": "Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin"
+    "id": "95.22",
+    "label": "Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin"
   },
   {
-    "Code": "95.23",
-    "Libellé": "Réparation de chaussures et d'articles en cuir"
+    "id": "95.23",
+    "label": "Réparation de chaussures et d'articles en cuir"
   },
   {
-    "Code": "95.24",
-    "Libellé": "Réparation de meubles et d'équipements du foyer"
+    "id": "95.24",
+    "label": "Réparation de meubles et d'équipements du foyer"
   },
   {
-    "Code": "95.25",
-    "Libellé": "Réparation d'articles d'horlogerie et de bijouterie"
+    "id": "95.25",
+    "label": "Réparation d'articles d'horlogerie et de bijouterie"
   },
   {
-    "Code": "95.29",
-    "Libellé": "Réparation d'autres biens personnels et domestiques"
+    "id": "95.29",
+    "label": "Réparation d'autres biens personnels et domestiques"
   },
   {
-    "Code": "96.01",
-    "Libellé": "Blanchisserie-teinturerie"
+    "id": "96.01",
+    "label": "Blanchisserie-teinturerie"
   },
   {
-    "Code": "96.02",
-    "Libellé": "Coiffure et soins de beauté"
+    "id": "96.02",
+    "label": "Coiffure et soins de beauté"
   },
   {
-    "Code": "96.03",
-    "Libellé": "Services funéraires"
+    "id": "96.03",
+    "label": "Services funéraires"
   },
   {
-    "Code": "96.04",
-    "Libellé": "Entretien corporel"
+    "id": "96.04",
+    "label": "Entretien corporel"
   },
   {
-    "Code": "96.09",
-    "Libellé": "Autres services personnels n.c.a."
+    "id": "96.09",
+    "label": "Autres services personnels n.c.a."
   },
   {
-    "Code": "97.00",
-    "Libellé": "Activités des ménages en tant qu'employeurs de personnel domestique"
+    "id": "97.00",
+    "label": "Activités des ménages en tant qu'employeurs de personnel domestique"
   },
   {
-    "Code": "98.10",
-    "Libellé": "Activités indifférenciées des ménages en tant que producteurs de biens pour usage propre"
+    "id": "98.10",
+    "label": "Activités indifférenciées des ménages en tant que producteurs de biens pour usage propre"
   },
   {
-    "Code": "98.20",
-    "Libellé": "Activités indifférenciées des ménages en tant que producteurs de services pour usage propre"
+    "id": "98.20",
+    "label": "Activités indifférenciées des ménages en tant que producteurs de services pour usage propre"
   },
   {
-    "Code": "99.00",
-    "Libellé": "Activités des organisations et organismes extraterritoriaux"
+    "id": "99.00",
+    "label": "Activités des organisations et organismes extraterritoriaux"
   }
 ]
