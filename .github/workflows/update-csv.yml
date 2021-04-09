@@ -16,7 +16,7 @@ jobs:
         run: |
           yarn
           yarn lint
-          yarn fetch > index.json
+          yarn -s fetch > index.json
 
       - uses: actions/upload-artifact@v2
         with:
