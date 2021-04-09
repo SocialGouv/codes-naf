@@ -18,6 +18,11 @@ jobs:
           yarn lint
           yarn fetch > index.json
 
+      - uses: actions/upload-artifact@v2
+        with:
+          name: index
+          path: index.json
+          
       - name: check JSON
         run: |
           # ensure data is valid
