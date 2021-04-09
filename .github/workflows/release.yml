@@ -16,12 +16,6 @@ jobs:
           path: 'node_modules'
           key: ${{ runner.os }}-modules-${{ hashFiles('yarn.lock') }}
 
-      - name: fetch and jsonify
-        run: |
-          yarn
-          yarn lint
-          yarn fetch > index.json
-
       - name: check JSON
         run: |
           # ensure data is valid
