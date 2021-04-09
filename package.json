@@ -5,7 +5,8 @@
   "license": "Apache-2.0",
   "types": "index.d.ts",
   "files": [
-    "index.json"
+    "index.json",
+    "index.d.ts"
   ],
   "scripts": {
     "fetch": "node scripts/download-csv.js > index.json",
