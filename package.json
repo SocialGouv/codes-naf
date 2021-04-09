@@ -1,0 +1,31 @@
+{
+  "name": "@socialgouv/codes-naf",
+  "version": "1.0.0",
+  "main": "index.json",
+  "license": "Apache-2.0",
+  "files": [
+    "index.json"
+  ],
+  "scripts": {
+    "fetch": "node scripts/download-csv.js > index.json",
+    "lint": "eslint scripts"
+  },
+  "dependencies": {
+    "csv-parse": "^4.15.3",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@socialgouv/eslint-config-recommended": "^1.66.0",
+    "eslint": "^7.23.0",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "eslintConfig": {
+    "extends": [
+      "@socialgouv/eslint-config-recommended"
+    ]
+  }
+}

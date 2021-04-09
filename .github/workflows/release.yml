@@ -1,0 +1,37 @@
+name: "Check release"
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+jobs:
+  using: ubuntu:latest
+  steps:
+    - uses: actions/checkout@v2
+
+    - uses: actions/cache@v2
+      with:
+        path: 'node_modules'
+        key: ${{ runner.os }}-modules-${{ hashFiles('yarn.lock') }}
+
+    - name: fetch and jsonify
+      run: |
+        yarn
+        yarn lint
+        yarn fetch > index.json
+
+    - name: check JSON
+      run: |
+        # ensure data is valid
+        L=$(jq length index.json)
+        # ensure we have some data
+        if [[ "$L" -lt 50 ]]; then
+          exit 1
+        fi
+
+    - name: Release
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      run: npx semantic-release

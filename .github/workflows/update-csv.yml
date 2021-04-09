@@ -1,0 +1,34 @@
+name: "Update from data.gouv CSV"
+on:
+  workflow_dispatch:
+jobs:
+  using: ubuntu:latest
+  steps:
+    - uses: actions/checkout@v2
+
+    - uses: actions/cache@v2
+      with:
+        path: 'node_modules'
+        key: ${{ runner.os }}-modules-${{ hashFiles('yarn.lock') }}
+
+    - name: fetch and jsonify
+      run: |
+        yarn
+        yarn lint
+        yarn fetch > index.json
+
+    - name: check JSON
+      run: |
+        # ensure data is valid
+        L=$(jq length index.json)
+        # ensure we have some data
+        if [[ "$L" -lt 50 ]]; then
+          exit 1
+        fi
+
+    - uses: EndBug/add-and-commit@v7
+      with:
+        add: '["index.json"]'
+        author_name: ${{ secrets.SOCIALGROOVYBOT_NAME }}
+        author_email: ${{ secrets.SOCIALGROOVYBOT_EMAIL }}
+        message: "fix: update data.gouv CSV"
