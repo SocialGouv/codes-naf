@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/SocialGouv/codes-naf/compare/v1.0.4...v1.0.5) (2021-04-12)
+
+
+### Bug Fixes
+
+* typedefs ([1b35d09](https://github.com/SocialGouv/codes-naf/commit/1b35d09b79c346f18792019deaab63b3d4c5c15a))
+
 ## [1.0.4](https://github.com/SocialGouv/codes-naf/compare/v1.0.3...v1.0.4) (2021-04-12)
 
 
