@@ -9,4 +9,7 @@ type CodeNaf = {
   label: string;
 };
 
-type CodesNaf = CodeNaf[];
+declare module "@socialgouv/codes-naf" {
+  const CodesNaf: CodeNaf[];
+  export default CodesNaf;
+}
