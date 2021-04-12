@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/SocialGouv/codes-naf/compare/v1.0.3...v1.0.4) (2021-04-12)
+
+
+### Bug Fixes
+
+* export from JS to get types ([5288ba2](https://github.com/SocialGouv/codes-naf/commit/5288ba298b40f3bb65674b4c171caf3ca14533da))
+
 ## [1.0.3](https://github.com/SocialGouv/codes-naf/compare/v1.0.2...v1.0.3) (2021-04-09)
 
 
