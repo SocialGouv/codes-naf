@@ -12,6 +12,6 @@
       "strictNullChecks": true,
       "target": "ES6"
     },
-    "include": ["scripts/*", "index.d.ts"]
+    "include": ["scripts/*", "index.d.ts", "index.js"]
   }
   
