@@ -7,6 +7,12 @@ Liste des [codes NAF](https://fr.wikipedia.org/wiki/Nomenclature_d%27activit%C3%
 ## Usage
 
 ```js
+
+type CodeNaf = {
+  id: string;
+  label: string;
+};
+
 const codesNaf = require("@socialgouv/codes-naf");
 
 const naf = codesNaf.find(code => code.id === "10.51");
@@ -14,4 +20,5 @@ const naf = codesNaf.find(code => code.id === "10.51");
 console.log(naf.label);
 
 // Exploitation de laiteries et fabrication de fromage
+
 ```
