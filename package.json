@@ -1,6 +1,6 @@
 {
   "name": "@socialgouv/codes-naf",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "license": "Apache-2.0",
   "types": "index.d.ts",
@@ -13,7 +13,6 @@
     "fetch": "node scripts/download-csv.js > index.json",
     "lint": "eslint scripts"
   },
-  "dependencies": {},
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
