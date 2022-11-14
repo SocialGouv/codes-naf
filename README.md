@@ -22,3 +22,4 @@ console.log(naf.label);
 // Exploitation de laiteries et fabrication de fromage
 
 ```
+
