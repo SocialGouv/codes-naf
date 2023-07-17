@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/SocialGouv/codes-naf/compare/v1.0.6...v1.1.0) (2023-07-17)
+
+
+### Features
+
+* add more codes ([#5](https://github.com/SocialGouv/codes-naf/issues/5)) ([f875632](https://github.com/SocialGouv/codes-naf/commit/f875632a66fe231f630ffde8fe1cc1546ca92e63))
+
 ## [1.0.6](https://github.com/SocialGouv/codes-naf/compare/v1.0.5...v1.0.6) (2022-11-14)
 
 
