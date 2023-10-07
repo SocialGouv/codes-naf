@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/SocialGouv/codes-naf/compare/v1.1.0...v1.1.1) (2023-10-07)
+
+
+### Bug Fixes
+
+* fix conversion issue ([#7](https://github.com/SocialGouv/codes-naf/issues/7)) ([6dbe229](https://github.com/SocialGouv/codes-naf/commit/6dbe22943fd98aa9894f4557fb016461d179e989))
+
 # [1.1.0](https://github.com/SocialGouv/codes-naf/compare/v1.0.6...v1.1.0) (2023-07-17)
 
 
